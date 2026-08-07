@@ -1,0 +1,1246 @@
+row_id,patient_id,patient_name,age,gender,department,diagnosis,admission_date,discharge_date,length_of_stay,cost,insurance_type
+1,P1490,john johnson,7.0,Female,General Medicine,Anemia,01/06/2023,2023-06-09,8,6157.23,PPO
+2,P1923,JAMES DAVIS,60.0,M,Pediatrics,Asthma,2024-04-10,2024-04-11,1,1309.13,Uninsured
+3,P1399,  Linda Thomas  ,54.0,M,General Medicine,Pneumonia,07-09-2024,2024-07-11,2,8903.42,Medicaid
+4,P1950,JOHN WILLIAMS,82.0,m,Cardiology,Arrhythmia,03 Apr 2024,2024-04-05,2,14669.0,Medicaid
+5,P1327,THOMAS LEE,-1.0,F,Orthopedics,Sprain,2024-02-12,2024-02-23,11,8795.77,HMO
+6,P1966,JOHN THOMAS,91.0,Female,Orthopedics,Joint Replacement,2024-04-28,2024-05-09,11,14205.59,Medicare
+7,P1058,William Smith,46.0,M,Emergency,Poisoning,05/08/2024,2024-08-15,10,8647.63,PPO
+8,P1562,jessica martin,50.0,F,Oncology,Leukemia,04-16-2023,2023-04-25,9,2382.52,Uninsured
+9,P1508,David Smith,27.0,Female,Cardiology,Heart Failure,2023-05-12,2023-05-13,1,4470.17,Medicaid
+10,P1028,Jennifer Lee,9.0,Male,Emergency,Appendicitis,2023-02-27,2023-03-04,5,6437.02,HMO
+11,P1994,john smith,48.0,m,Pediatrics,Asthma,09-07-2023,2023-09-09,2,8082.79,Uninsured
+12,P1377,  Susan White  ,22.0,M,Cardiology,Hypertension,24 Feb 2023,2023-03-02,6,5188.4,Medicaid
+13,P2064,  William Martinez  ,56.0,Male,Neurology,Epilepsy,2023-04-16,2023-04-21,5,7942.96,Medicare
+14,P2136,Mary Brown,,Female,Emergency,Appendicitis,12/03/2024,2024-03-15,3,14883.47,PPO
+15,P1778,ROBERT MARTINEZ,43.0,Male,Cardiology,Hypertension,01-23-2024,2024-01-28,5,7131.36,
+16,P1333,  William Thomas  ,16.0,m,Neurology,Stroke,2024-11-05,2024-11-10,5,5327.53,Medicaid
+17,P2041,  Karen Jackson  ,11.0,Female,General Medicine,Pneumonia,21/05/2023,2023-05-28,7,11898.41,Medicare
+18,P1338,elizabeth smith,88.0,M,Oncology,Lymphoma,01-07-2023,2023-01-13,6,14679.74,
+19,P1046,Joseph Thomas,60.0,Female,Pediatrics,Flu,30 Jul 2024,2024-08-06,7,14268.9,Medicaid
+20,P1410,  David Smith  ,57.0,m,Cardiology,Arrhythmia,07/04/2024,2024-04-18,11,10509.48,HMO
+21,P1486,robert rodriguez,53.0,Female,Emergency,Poisoning,07 Nov 2024,2024-11-15,8,13696.29,Uninsured
+22,P1040,William Brown,21.0,Male,Cardiology,Arrhythmia,05/05/2024,2024-05-16,11,2271.5,Medicaid
+23,P1981,DAVID SMITH,52.0,M,Emergency,Burns,01-13-2024,2024-01-16,3,8080.95,PPO
+24,P1890,  Thomas Anderson  ,38.0,f,Oncology,Leukemia,13 Feb 2023,2023-02-23,10,2189.28,Medicare
+25,P1952,  Karen Brown  ,79.0,Female,Oncology,Lung Cancer,14/09/2024,2024-09-17,3,2006.87,PPO
+26,P1593,CHARLES WILLIAMS,58.0,m,Oncology,Leukemia,23 Mar 2023,2023-03-27,4,9795.13,PPO
+27,P1060,charles taylor,4.0,Female,Emergency,Burns,2023-02-11,2023-02-15,4,9962.69,Uninsured
+28,P1022,JENNIFER SMITH,5.0,Female,Emergency,Trauma,29 Feb 2024,2024-03-09,9,10054.82,Medicare
+29,P2040,michael smith,88.0,Male,General Medicine,Diabetes,2023-10-07,2023-10-14,7,4604.69,Uninsured
+30,P1649,sarah martin,3.0,M,General Medicine,Pneumonia,19/10/2024,2024-10-29,10,2973.71,HMO
+31,P1272,ROBERT WHITE,57.0,Female,Oncology,Lung Cancer,07 Sep 2023,2023-09-14,7,4394.42,Medicaid
+32,P2047,Thomas Williams,83.0,F,General Medicine,Hypertension,30/08/2023,2023-09-10,11,9379.1,PPO
+33,P1281,Barbara Rodriguez,20.0,F,Cardiology,Hypertension,30 Jul 2023,2023-08-06,7,8355.85,Medicaid
+34,P1006,joseph miller,64.0,Female,Oncology,Lung Cancer,21 Oct 2024,2024-10-24,3,9729.87,HMO
+35,P1764,Karen Davis,7.0,Male,Orthopedics,Osteoarthritis,25/04/2024,2024-05-02,7,2953.9,Medicare
+36,P1103,  Elizabeth Jackson  ,29.0,f,Cardiology,Heart Failure,12/10/2024,2024-10-18,6,7497.58,PPO
+37,P1149,SUSAN RODRIGUEZ,69.0,Male,Neurology,Parkinson's Disease,2023-01-28,2023-02-04,7,4085.29,PPO
+38,P1131,  Barbara Rodriguez  ,57.0,F,Cardiology,Coronary Artery Disease,2024-06-05,2024-06-06,1,494.54,Medicaid
+39,P1829,  Patricia Brown  ,,M,Oncology,Breast Cancer,26/05/2023,2023-05-31,5,9374.24,Uninsured
+40,P1781,charles martin,29.0,f,General Medicine,Anemia,02/07/2024,2024-07-09,7,712.91,Medicare
+41,P2003,JENNIFER JACKSON,76.0,Male,Orthopedics,Fracture,05/05/2024,2024-05-07,2,10983.19,PPO
+42,P1296,DAVID LEE,84.0,Female,Neurology,,24/07/2023,2023-08-04,11,12090.97,Uninsured
+43,P1432,Elizabeth Miller,87.0,M,Cardiology,Coronary Artery Disease,2023-02-16,2023-02-19,3,698.72,Uninsured
+44,P1089,THOMAS WILLIAMS,40.0,f,Pediatrics,Flu,06-13-2023,2023-06-24,11,969.73,Medicaid
+45,P2187,ELIZABETH JONES,23.0,m,General Medicine,Anemia,11/04/2023,2023-04-18,7,6016.9,Medicare
+46,P1918,robert perez,51.0,f,Orthopedics,Osteoarthritis,2023-09-11,2023-09-14,3,10385.02,
+47,P1325,MARY WILLIAMS,56.0,Female,Cardiology,Arrhythmia,08 Oct 2024,2024-10-11,3,12162.49,PPO
+48,P1373,JOHN BROWN,86.0,Female,Pediatrics,Chickenpox,13/06/2024,2024-06-17,4,1747.81,HMO
+49,P1109,BARBARA TAYLOR,93.0,M,Neurology,Migraine,20 May 2024,2024-05-24,4,9294.88,Uninsured
+50,P1412,david jackson,10.0,Male,Pediatrics,Flu,29 Apr 2023,2023-05-09,10,12985.7,Uninsured
+51,P1557,SUSAN MARTINEZ,13.0,Male,General Medicine,Anemia,04 May 2024,2024-05-13,9,14978.65,Uninsured
+52,P1182,  Jessica Brown  ,6.0,Male,General Medicine,Diabetes,2024-07-05,2024-07-07,2,14722.79,Uninsured
+53,P1566,  Karen Brown  ,77.0,F,Neurology,Parkinson's Disease,2023-09-06,2023-09-10,4,13238.0,HMO
+54,P1674,  Richard Johnson  ,44.0,f,Pediatrics,Chickenpox,01-26-2023,2023-01-27,1,1833.31,Medicare
+55,P1073,  Charles Anderson  ,33.0,f,Oncology,Lung Cancer,08-03-2023,2023-08-11,8,7349.52,HMO
+56,P1171,Susan Perez,2.0,m,Orthopedics,Osteoarthritis,2024-01-18,2024-01-23,5,1973.67,Medicare
+57,P1608,Jennifer Thomas,57.0,m,Pediatrics,Flu,09/10/2024,2024-10-10,1,11096.86,Medicaid
+58,P1314,charles white,13.0,F,Orthopedics,Osteoarthritis,06-26-2024,2024-06-29,3,6091.18,HMO
+59,P1618,karen taylor,3.0,F,General Medicine,Hypertension,23/07/2023,2023-07-30,7,1376.66,HMO
+60,P1335,susan moore,9.0,M,Cardiology,Hypertension,02/09/2024,2024-09-03,1,,Uninsured
+61,P1685,karen martin,36.0,f,Cardiology,Heart Failure,19 Oct 2024,2024-10-20,1,4708.54,Uninsured
+62,P1031,JOSEPH THOMAS,30.0,m,Neurology,Migraine,29 Jan 2024,2024-02-06,8,4418.16,HMO
+63,P1637,Sarah Martinez,8.0,f,Pediatrics,Asthma,2023-03-13,2023-03-15,2,4399.17,HMO
+64,P1476,PATRICIA MOORE,3.0,f,Neurology,Migraine,03/08/2024,2024-08-04,1,10982.73,Uninsured
+65,P1558,Linda Taylor,52.0,Male,Cardiology,Hypertension,23 Aug 2024,2024-08-27,4,8335.0,Uninsured
+66,P2067,  David Williams  ,39.0,f,Cardiology,Hypertension,08-20-2024,2024-08-21,1,1438.53,Uninsured
+67,P1342,michael rodriguez,83.0,M,Cardiology,Heart Failure,06 Jun 2023,2023-06-09,3,4816.76,HMO
+68,P1592,MARY PEREZ,82.0,Male,Pediatrics,Flu,2023-11-25,2023-12-05,10,11012.26,PPO
+69,P1630,robert miller,57.0,m,Emergency,Burns,2023-11-23,2023-11-29,6,3507.72,Medicare
+70,P1078,jessica smith,16.0,f,Orthopedics,Sprain,27 Jun 2024,2024-07-02,5,2375.82,PPO
+71,P1123,JESSICA ANDERSON,33.0,M,Pediatrics,Asthma,08-25-2023,2023-08-28,3,9756.3,HMO
+72,P1961,JESSICA RODRIGUEZ,68.0,m,Oncology,Breast Cancer,2024-04-16,2024-04-21,5,8765.81,Uninsured
+73,P1974,  Susan Jones  ,44.0,M,Pediatrics,Chickenpox,2024-11-13,2024-11-20,7,1955.28,Medicaid
+74,P1003,Thomas Jones,81.0,Male,General Medicine,Anemia,2023-06-05,2023-06-08,3,14326.11,PPO
+75,P1136,SARAH SMITH,2.0,Male,Neurology,Migraine,12-05-2023,2023-12-11,6,,Uninsured
+76,P1754,Richard Davis,50.0,,Emergency,Burns,2024-05-07,2024-05-10,3,5236.65,Medicare
+77,P1201,patricia wilson,7.0,Female,General Medicine,Diabetes,2023-01-20,2023-01-29,9,13738.06,
+78,P1847,linda johnson,46.0,m,Oncology,Lung Cancer,09-20-2024,2024-10-01,11,3448.43,Medicare
+79,P1133,james moore,1.0,Female,Neurology,Parkinson's Disease,11 Mar 2023,2023-03-18,7,6157.68,Uninsured
+80,P1879,john davis,42.0,Female,Orthopedics,Osteoarthritis,2023-01-18,2023-01-27,9,7916.83,Medicaid
+81,P1955,WILLIAM DAVIS,57.0,Female,Cardiology,Heart Failure,12-31-2023,2024-01-05,5,12926.97,Uninsured
+82,P1640,sarah brown,5.0,F,Orthopedics,Fracture,2023-12-12,2023-12-13,1,13379.04,Medicare
+83,P2125,Sarah Thomas,62.0,f,General Medicine,Hypertension,05-19-2023,2023-05-24,5,5773.14,Uninsured
+84,P1322,linda martin,1.0,Male,Oncology,Breast Cancer,16 Mar 2024,2024-03-23,7,4853.89,HMO
+85,P2086,  Barbara Brown  ,23.0,F,Neurology,Stroke,21 Jul 2023,2023-07-30,9,11879.49,Medicaid
+86,P1229,  Linda Lee  ,28.0,m,Cardiology,Arrhythmia,2023-10-16,2023-10-20,4,5049.04,Uninsured
+87,P1776,john martin,38.0,Female,Cardiology,Coronary Artery Disease,16 Jun 2023,2023-06-17,1,2158.76,PPO
+88,P1638,William Garcia,90.0,F,General Medicine,Anemia,21 Aug 2024,2024-08-27,6,3942.08,Uninsured
+89,P2190,karen lee,31.0,F,Orthopedics,Fracture,23 Oct 2024,2024-10-24,1,13573.99,Medicaid
+90,P2145,sarah martin,93.0,Male,Pediatrics,Chickenpox,2023-06-14,2023-06-16,2,1591.61,Medicaid
+91,P1622,Michael Martinez,16.0,Female,Emergency,Burns,04 May 2023,2023-05-13,9,10957.18,HMO
+92,P1933,JESSICA MILLER,24.0,f,Pediatrics,Chickenpox,07 Sep 2023,2023-09-14,7,14136.02,PPO
+93,P1135,  William Moore  ,25.0,F,Neurology,Migraine,30 Nov 2023,2023-12-04,4,9822.78,PPO
+94,P1409,joseph miller,2.0,F,Emergency,Trauma,20 Oct 2024,2024-10-29,9,11821.76,HMO
+95,P1430,SARAH BROWN,73.0,m,Cardiology,Coronary Artery Disease,29 Aug 2023,2023-09-02,4,,Medicaid
+96,P2002,Michael Jones,57.0,m,Neurology,Epilepsy,23/02/2024,2024-02-28,5,12418.19,Uninsured
+97,P1449,Barbara Wilson,66.0,Male,Pediatrics,Chickenpox,2024-03-28,2024-04-01,4,3432.2,Medicare
+98,P2065,  Jessica Martin  ,29.0,Female,Cardiology,Arrhythmia,31/01/2024,2024-02-11,11,10377.41,Medicaid
+99,P1925,susan taylor,61.0,Female,Pediatrics,Ear Infection,15/09/2024,2024-09-21,6,7605.16,Medicare
+100,P1478,Patricia Thomas,24.0,,Oncology,Lymphoma,21 Apr 2023,2023-05-01,10,11691.87,PPO
+101,P2082,Richard Jones,37.0,M,Cardiology,Coronary Artery Disease,09/12/2023,2023-12-12,3,4862.79,HMO
+102,P1110,JOHN MILLER,,F,Pediatrics,Flu,14/10/2024,2024-10-17,3,10455.3,PPO
+103,P1542,joseph lee,34.0,F,Neurology,Migraine,15 Nov 2023,2023-11-22,7,13238.09,Medicare
+104,P1629,thomas davis,,Male,Cardiology,Hypertension,29/05/2024,2024-06-01,3,9066.98,HMO
+105,P2042,  Joseph Wilson  ,82.0,m,Cardiology,Heart Failure,10/05/2024,2024-05-12,2,8967.99,Medicaid
+106,P1238,jessica perez,37.0,Male,Orthopedics,Joint Replacement,30 Oct 2024,2024-11-02,3,9474.54,PPO
+107,P1081,Elizabeth White,88.0,F,Orthopedics,Osteoarthritis,11-23-2023,2023-11-25,2,5410.88,HMO
+108,P1112,Robert Jones,73.0,f,Orthopedics,Joint Replacement,28/06/2023,2023-06-30,2,5418.16,Uninsured
+109,P2154,Elizabeth Martin,79.0,f,Orthopedics,Joint Replacement,26 Aug 2023,2023-08-27,1,5238.96,Medicare
+110,P1160,jennifer perez,57.0,f,Emergency,Trauma,11 May 2023,2023-05-15,4,9172.9,HMO
+111,P1494,David Thomas,89.0,M,Emergency,Appendicitis,07-29-2023,2023-08-08,10,13806.02,Uninsured
+112,P1673,  Thomas Martin  ,89.0,f,Orthopedics,Fracture,06-16-2023,2023-06-22,6,4403.03,HMO
+113,P2079,Linda Lee,26.0,M,Oncology,Lymphoma,2024-02-16,2024-02-22,6,8689.43,Medicaid
+114,P1990,mary martin,10.0,Male,Emergency,Burns,11 Aug 2024,2024-08-14,3,7311.65,PPO
+115,P2180,karen martinez,5.0,M,Cardiology,Hypertension,10/09/2023,2023-09-14,4,13773.46,Medicaid
+116,P2063,james brown,93.0,m,General Medicine,Hypertension,2024-09-14,2024-09-20,6,3825.75,Uninsured
+117,P1256,WILLIAM PEREZ,20.0,m,Cardiology,Arrhythmia,2024-05-13,2024-05-16,3,4323.94,Uninsured
+118,P1786,elizabeth johnson,16.0,Female,Cardiology,Coronary Artery Disease,08-26-2023,2023-08-28,2,8671.53,Medicare
+119,P2061,LINDA MILLER,55.0,m,Cardiology,Hypertension,23/11/2024,2024-11-24,1,8607.34,Uninsured
+120,P1140,  Richard Lee  ,7.0,F,Cardiology,Arrhythmia,24 Jun 2023,2023-07-03,9,12805.35,HMO
+121,P1784,michael jackson,31.0,M,Pediatrics,Chickenpox,01/05/2023,2023-05-11,10,9600.04,HMO
+122,P1516,William Johnson,31.0,f,Neurology,Epilepsy,29/11/2024,2024-12-08,9,8356.82,Uninsured
+123,P1120,karen perez,35.0,Male,Neurology,Parkinson's Disease,17/05/2024,2024-05-22,5,12413.77,Medicaid
+124,P1063,RICHARD SMITH,83.0,M,Pediatrics,Asthma,22/01/2023,2023-01-27,5,9101.69,Medicare
+125,P2126,JAMES LEE,48.0,F,Emergency,Trauma,27 Oct 2023,2023-10-31,4,,PPO
+126,P1677,BARBARA JOHNSON,46.0,Male,Orthopedics,Sprain,20/08/2023,2023-08-30,10,,HMO
+127,P2050,david williams,90.0,F,Emergency,Poisoning,2024-03-13,2024-03-20,7,9875.94,Medicare
+128,P1575,Jennifer Perez,57.0,m,Pediatrics,Ear Infection,07-24-2023,2023-07-26,2,738.33,PPO
+129,P1181,Jennifer Miller,12.0,Male,Emergency,Poisoning,26 Mar 2024,2024-03-29,3,13772.43,Uninsured
+130,P2057,thomas brown,87.0,Female,Oncology,Lymphoma,10/07/2023,2023-07-12,2,5791.69,PPO
+131,P1745,Barbara Davis,72.0,M,Orthopedics,Osteoarthritis,16 Apr 2024,2024-04-22,6,9071.61,Medicaid
+132,P1792,  Linda Moore  ,72.0,f,Pediatrics,Flu,2023-08-24,2023-08-31,7,1776.34,Uninsured
+133,P1224,  Robert Wilson  ,17.0,f,General Medicine,Diabetes,20 Nov 2023,2023-11-22,2,7072.65,Medicare
+134,P1856,JENNIFER BROWN,51.0,M,Cardiology,Coronary Artery Disease,04 Jan 2024,2024-01-13,9,7501.47,Uninsured
+135,P1268,elizabeth davis,30.0,F,Oncology,Lung Cancer,11/01/2024,2024-01-12,1,5133.25,PPO
+136,P2200,  William Brown  ,79.0,,Neurology,Epilepsy,03-12-2023,2023-03-16,4,8949.01,PPO
+137,P2058,Richard Thomas,55.0,m,Neurology,Parkinson's Disease,21 May 2023,2023-05-26,5,3714.83,PPO
+138,P2138,David Garcia,93.0,f,Pediatrics,Asthma,02 Aug 2023,2023-08-03,1,13401.22,Medicaid
+139,P1132,  Barbara Davis  ,42.0,Female,Neurology,Epilepsy,19 Feb 2023,2023-02-27,8,12141.44,
+140,P1447,joseph lee,70.0,F,Pediatrics,Ear Infection,25/10/2024,2024-10-28,3,14679.85,Medicaid
+141,P1200,  Charles Smith  ,24.0,f,Neurology,Epilepsy,19/03/2023,2023-03-25,6,4604.21,Medicare
+142,P1980,Thomas Jackson,8.0,F,Orthopedics,Joint Replacement,2023-07-18,2023-07-24,6,13176.64,Medicaid
+143,P1228,JESSICA WILLIAMS,61.0,m,Cardiology,Heart Failure,02 Nov 2024,2024-11-08,6,575.24,Medicaid
+144,P1280,richard jackson,6.0,f,General Medicine,Anemia,2023-07-04,2023-07-08,4,14569.53,Medicare
+145,P1723,susan brown,7.0,Female,Cardiology,Heart Failure,07-21-2023,2023-08-01,11,311.71,Medicaid
+146,P1692,karen wilson,26.0,F,Orthopedics,Osteoarthritis,06-27-2023,2023-07-08,11,885.44,PPO
+147,P2109,  Sarah Jones  ,24.0,Male,Orthopedics,Osteoarthritis,11-22-2024,2024-12-03,11,13143.87,HMO
+148,P2166,james rodriguez,59.0,m,Neurology,Migraine,2023-05-16,2023-05-17,1,4408.46,HMO
+149,P1456,michael jones,37.0,m,Oncology,Breast Cancer,30/07/2023,2023-08-09,10,,Uninsured
+150,P1515,Michael Smith,82.0,F,Neurology,Epilepsy,13/08/2023,2023-08-19,6,1991.49,PPO
+151,P1832,  Michael Rodriguez  ,37.0,M,Neurology,Stroke,23/11/2024,2024-12-02,9,14297.98,HMO
+152,P1480,Charles Martinez,34.0,Female,Orthopedics,Joint Replacement,05 Jul 2024,2024-07-07,2,1260.5,Uninsured
+153,P1442,Jennifer Lee,75.0,f,Neurology,Epilepsy,2023-03-05,2023-03-10,5,1350.43,PPO
+154,P1703,patricia martinez,45.0,f,Neurology,,16/09/2023,2023-09-17,1,13412.12,Medicare
+155,P2198,thomas williams,32.0,M,Pediatrics,Ear Infection,2024-07-29,2024-07-30,1,12278.39,Uninsured
+156,P1643,thomas johnson,70.0,m,Neurology,Migraine,07-20-2023,2023-07-29,9,4526.61,Uninsured
+157,P1258,JAMES MOORE,12.0,f,Cardiology,Arrhythmia,16 Aug 2024,2024-08-23,7,887.84,PPO
+158,P1504,JAMES MARTINEZ,11.0,F,Cardiology,Arrhythmia,28 Feb 2023,2023-03-07,7,6631.55,HMO
+159,P1582,  Thomas Thomas  ,84.0,M,Orthopedics,Osteoarthritis,26 May 2023,2023-06-02,7,,Medicare
+160,P1099,michael lee,24.0,Male,Neurology,Parkinson's Disease,31/05/2023,2023-06-03,3,11143.76,Medicaid
+161,P1867,  Patricia Martinez  ,81.0,M,Emergency,Appendicitis,19 Nov 2024,2024-11-21,2,5288.38,Medicare
+162,P1611,KAREN GARCIA,25.0,Male,Orthopedics,Osteoarthritis,2023-03-06,2023-03-11,5,13522.26,HMO
+163,P2124,barbara white,72.0,F,Oncology,Lymphoma,02-25-2023,2023-03-03,6,11679.19,Medicare
+164,P1812,Jessica Thomas,77.0,m,Oncology,Lung Cancer,04-07-2024,2024-04-12,5,,Uninsured
+165,P1451,Joseph Jackson,33.0,F,Cardiology,Coronary Artery Disease,2023-02-22,2023-02-25,3,10488.24,PPO
+166,P1875,Linda Rodriguez,88.0,m,Emergency,Appendicitis,03-31-2023,2023-04-06,6,13943.68,Medicare
+167,P1247,Karen Davis,51.0,Male,General Medicine,Hypertension,24/09/2024,2024-09-30,6,1520.14,Medicaid
+168,P1212,William Anderson,10.0,Male,Neurology,Stroke,2023-12-14,2023-12-24,10,2384.72,Medicaid
+169,P2181,william jones,51.0,M,Cardiology,Arrhythmia,2023-01-10,2023-01-17,7,1930.21,Medicare
+170,P2093,  Sarah Perez  ,4.0,M,Cardiology,Arrhythmia,03-07-2024,2024-03-14,7,12888.13,HMO
+171,P1684,karen jackson,59.0,f,Cardiology,Hypertension,21/11/2024,2024-12-02,11,7314.99,PPO
+172,P1943,susan perez,5.0,f,Neurology,Stroke,11 Jun 2024,2024-06-20,9,307.99,Medicaid
+173,P2094,William Anderson,62.0,M,Pediatrics,Asthma,2023-10-28,2023-11-03,6,6797.25,Medicaid
+174,P1505,  Linda Perez  ,82.0,Female,Oncology,Breast Cancer,05/05/2024,2024-05-12,7,5759.71,Medicare
+175,P1509,sarah garcia,56.0,f,General Medicine,Diabetes,03-03-2023,2023-03-08,5,11232.02,PPO
+176,P1259,SUSAN JACKSON,67.0,f,Orthopedics,Joint Replacement,27/03/2024,2024-04-01,5,10454.16,Uninsured
+177,P1816,  Patricia Miller  ,56.0,f,Pediatrics,Ear Infection,05-17-2024,2024-05-23,6,1383.95,Medicaid
+178,P1821,Sarah Lee,79.0,Female,General Medicine,Pneumonia,06-12-2024,2024-06-21,9,8628.63,Medicaid
+179,P1610,  Susan Rodriguez  ,53.0,M,Neurology,Parkinson's Disease,2024-04-10,2024-04-17,7,4288.82,Medicaid
+180,P1436,LINDA MOORE,65.0,F,Emergency,Burns,12/09/2023,2023-09-16,4,7889.67,Uninsured
+181,P2007,JOSEPH WILSON,74.0,f,Orthopedics,Fracture,23 Jun 2024,2024-06-29,6,14214.8,HMO
+182,P1928,CHARLES PEREZ,16.0,Female,Cardiology,Arrhythmia,05-25-2024,2024-05-27,2,2952.88,Uninsured
+183,P1889,DAVID BROWN,55.0,m,Pediatrics,Flu,22 Feb 2024,2024-02-25,3,14034.04,Medicaid
+184,P1774,  Mary Anderson  ,93.0,Male,Cardiology,Heart Failure,13/09/2023,2023-09-20,7,929.22,PPO
+185,P1905,JAMES JACKSON,18.0,f,Oncology,Lymphoma,04/11/2023,2023-11-13,9,7837.85,PPO
+186,P2153,SUSAN DAVIS,26.0,Female,Pediatrics,Chickenpox,02-28-2023,2023-03-06,6,6966.75,Medicaid
+187,P1758,RICHARD MARTINEZ,7.0,f,Neurology,Stroke,29 Mar 2024,2024-03-30,1,13984.82,PPO
+188,P1823,charles anderson,17.0,f,Emergency,Appendicitis,19/12/2023,2023-12-25,6,2814.8,Uninsured
+189,P1065,SARAH MARTINEZ,69.0,F,Pediatrics,Flu,06-20-2023,2023-06-30,10,12367.58,Medicaid
+190,P1567,james smith,56.0,m,Cardiology,Heart Failure,12-06-2023,2023-12-12,6,8062.53,Medicaid
+191,P1474,  Thomas Miller  ,16.0,f,General Medicine,Diabetes,18/06/2024,2024-06-26,8,2177.49,PPO
+192,P2175,  Patricia Smith  ,7.0,f,Oncology,Breast Cancer,04-27-2023,2023-04-28,1,12619.41,HMO
+193,P1151,JOSEPH THOMAS,46.0,f,Oncology,Breast Cancer,2023-03-31,2023-04-02,2,9904.42,Uninsured
+194,P1479,John Jones,8.0,M,Oncology,Breast Cancer,10-05-2023,2023-10-11,6,8073.64,Medicaid
+195,P1898,Jennifer Johnson,3.0,F,Pediatrics,Ear Infection,2024-04-14,2024-04-16,2,10413.02,Medicaid
+196,P2139,John Davis,71.0,f,Cardiology,Hypertension,17 Jan 2024,2024-01-18,1,5064.23,HMO
+197,P1627,BARBARA WILLIAMS,68.0,Female,Cardiology,Coronary Artery Disease,2023-01-28,2023-01-30,2,3818.39,PPO
+198,P1598,JOHN JACKSON,1.0,m,Oncology,Breast Cancer,20 Apr 2023,2023-04-27,7,13093.09,Medicaid
+199,P1977,KAREN PEREZ,1.0,m,Cardiology,Arrhythmia,14/06/2023,2023-06-19,5,2098.71,Medicaid
+200,P1121,  Thomas Jones  ,23.0,F,Neurology,Stroke,06/05/2024,2024-05-11,5,3705.25,HMO
+201,P1603,SARAH DAVIS,87.0,m,General Medicine,Hypertension,17 Mar 2024,2024-03-24,7,1357.69,
+202,P1232,Robert Moore,30.0,m,Cardiology,Hypertension,13/10/2023,2023-10-21,8,5916.22,Uninsured
+203,P1346,  Elizabeth Taylor  ,75.0,Male,General Medicine,Diabetes,22/10/2024,2024-11-01,10,8426.04,Medicaid
+204,P2121,  David Moore  ,71.0,m,Neurology,Migraine,23 Aug 2024,2024-08-24,1,13761.78,Medicare
+205,P1687,  James Miller  ,72.0,F,Oncology,Leukemia,08-28-2024,2024-09-02,5,7677.96,HMO
+206,P1197,Sarah Garcia,,m,Emergency,Appendicitis,2024-03-10,2024-03-14,4,9982.63,PPO
+207,P2136,Mary Brown,54.0,Female,Emergency,Appendicitis,12/03/2024,2024-03-15,3,14883.47,PPO
+208,P1789,David Smith,39.0,M,Orthopedics,Joint Replacement,01/01/2023,2023-01-10,9,9891.73,Medicare
+209,P1345,Sarah Martin,34.0,M,Pediatrics,Chickenpox,16/11/2023,2023-11-22,6,9881.3,HMO
+210,P1462,richard jones,88.0,f,Emergency,Poisoning,05-01-2024,2024-05-09,8,8140.25,Medicaid
+211,P1581,  Mary Wilson  ,45.0,F,Oncology,Leukemia,23 Jan 2024,2024-01-24,1,7553.44,PPO
+212,P1092,richard moore,71.0,M,Pediatrics,Chickenpox,30/08/2023,2023-09-03,4,7937.7,PPO
+213,P1261,Patricia Thomas,5.0,m,Oncology,Breast Cancer,2024-03-10,2024-03-14,4,909.42,HMO
+214,P1767,karen jackson,59.0,F,Cardiology,Arrhythmia,2023-11-10,2023-11-21,11,13436.17,HMO
+215,P1359,SARAH RODRIGUEZ,13.0,f,General Medicine,Anemia,08/01/2024,2024-01-09,1,9109.63,HMO
+216,P1644,JENNIFER TAYLOR,25.0,Male,Oncology,Breast Cancer,2023-09-14,2023-09-18,4,14836.26,
+217,P1991,SUSAN WHITE,54.0,,Oncology,Lung Cancer,24 Feb 2024,2024-02-27,3,6361.9,HMO
+218,P2069,  Sarah Rodriguez  ,8.0,,General Medicine,Diabetes,04/03/2024,2024-03-13,9,9509.6,HMO
+219,P1290,  Thomas Jones  ,66.0,Male,Orthopedics,Sprain,08-12-2023,2023-08-18,6,1473.46,Uninsured
+220,P1496,sarah wilson,92.0,Male,Pediatrics,Flu,11/05/2023,2023-05-19,8,8497.08,Medicaid
+221,P2066,Joseph Johnson,44.0,f,Orthopedics,Sprain,15/05/2023,2023-05-17,2,10854.24,Medicare
+222,P1650,  Joseph Brown  ,91.0,f,Pediatrics,Chickenpox,05-29-2024,2024-05-30,1,2706.01,Medicaid
+223,P1521,JOHN TAYLOR,73.0,m,General Medicine,Hypertension,05-01-2024,2024-05-09,8,8272.91,Medicaid
+224,P1305,  James Johnson  ,25.0,m,Neurology,Migraine,2023-03-18,2023-03-23,5,12001.88,PPO
+225,P1694,John Rodriguez,14.0,m,Cardiology,Hypertension,21 Jul 2023,2023-07-24,3,14654.24,Medicaid
+226,P1553,  John Rodriguez  ,4.0,f,Emergency,Appendicitis,10-08-2023,2023-10-13,5,2238.79,Uninsured
+227,P1030,Richard Martinez,60.0,m,Pediatrics,Asthma,06-26-2023,2023-07-01,5,7948.68,Uninsured
+228,P2146,  Elizabeth Garcia  ,50.0,m,Cardiology,Arrhythmia,03-17-2024,2024-03-19,2,8367.83,HMO
+229,P1310,robert martinez,40.0,F,Cardiology,Heart Failure,26/09/2024,2024-10-05,9,5851.75,Uninsured
+230,P1606,MICHAEL PEREZ,52.0,f,Neurology,Epilepsy,04-16-2023,2023-04-25,9,8237.91,HMO
+231,P1835,THOMAS TAYLOR,77.0,Female,Pediatrics,Chickenpox,04 Feb 2024,2024-02-11,7,2551.3,PPO
+232,P1371,LINDA MARTINEZ,12.0,m,Oncology,Lung Cancer,09-17-2023,2023-09-22,5,1458.23,PPO
+233,P1118,michael miller,11.0,M,Neurology,Stroke,08/08/2023,2023-08-09,1,434.29,PPO
+234,P1041,  Joseph Wilson  ,77.0,F,Oncology,Lung Cancer,04/07/2023,2023-07-10,6,11027.54,Uninsured
+235,P1017,James Moore,34.0,M,Cardiology,Hypertension,05-04-2023,2023-05-07,3,7245.14,Uninsured
+236,P1419,patricia jackson,53.0,Male,Neurology,Parkinson's Disease,29 Nov 2023,2023-12-05,6,11366.83,Medicaid
+237,P1361,  Jennifer Martinez  ,64.0,F,Orthopedics,Fracture,2023-12-02,2023-12-13,11,9932.22,HMO
+238,P1619,john miller,38.0,Male,Cardiology,Hypertension,03/02/2023,2023-02-09,6,1048.76,PPO
+239,P1248,  Robert Garcia  ,12.0,Female,General Medicine,Anemia,05 Dec 2023,2023-12-09,4,7928.21,Uninsured
+240,P1511,JOHN WHITE,61.0,f,Oncology,Leukemia,10-16-2024,2024-10-20,4,420.45,Medicaid
+241,P1881,Jessica Miller,4.0,Male,General Medicine,Diabetes,06-12-2024,2024-06-22,10,9940.28,Uninsured
+242,P1828,charles wilson,84.0,M,Pediatrics,Chickenpox,02/03/2024,2024-03-12,10,7114.82,Uninsured
+243,P1530,Thomas White,37.0,Female,Oncology,Lymphoma,11/03/2023,2023-03-20,9,2639.3,Medicaid
+244,P1722,thomas white,19.0,Male,Orthopedics,Osteoarthritis,2024-08-10,2024-08-20,10,2443.61,Medicaid
+245,P1061,Mary Wilson,15.0,Female,Neurology,Migraine,24 Mar 2024,2024-03-26,2,8677.83,HMO
+246,P1257,JESSICA RODRIGUEZ,58.0,,Cardiology,Coronary Artery Disease,09 Jan 2024,2024-01-16,7,14278.48,Medicaid
+247,P1517,BARBARA GARCIA,2.0,M,Cardiology,Heart Failure,11/03/2024,2024-03-22,11,12154.46,Medicaid
+248,P2151,robert martinez,-1.0,M,Emergency,Poisoning,2023-01-22,2023-02-01,10,2388.22,PPO
+249,P1662,Charles Moore,69.0,Female,General Medicine,Hypertension,2024-06-27,2024-07-05,8,12642.62,Uninsured
+250,P1250,Barbara Jones,92.0,m,Emergency,Burns,07 Apr 2024,2024-04-08,1,2406.22,Uninsured
+251,P1691,joseph wilson,7.0,M,Oncology,Leukemia,2024-03-26,2024-03-28,2,12208.54,Medicaid
+252,P2032,James Rodriguez,94.0,,Orthopedics,Osteoarthritis,11-14-2024,2024-11-23,9,11599.53,PPO
+253,P1798,Linda Thomas,75.0,M,Emergency,Appendicitis,04 Jun 2024,2024-06-14,10,11846.14,Medicare
+254,P1011,BARBARA BROWN,36.0,,General Medicine,Anemia,06-10-2024,2024-06-14,4,4408.7,Medicaid
+255,P1563,Barbara Davis,79.0,F,Emergency,Trauma,26 Jun 2023,2023-06-28,2,13898.55,HMO
+256,P1702,Mary Johnson,25.0,Female,Pediatrics,Chickenpox,27 Nov 2023,2023-12-02,5,1089.82,HMO
+257,P1938,JENNIFER BROWN,61.0,M,Oncology,Breast Cancer,10 Apr 2023,2023-04-17,7,13634.42,PPO
+258,P1066,  Barbara Smith  ,68.0,Male,Pediatrics,Flu,24/12/2023,2024-01-02,9,14667.85,HMO
+259,P1382,THOMAS PEREZ,6.0,Female,Neurology,Parkinson's Disease,11-03-2024,2024-11-11,8,14997.48,Medicaid
+260,P2036,david jones,51.0,M,Emergency,Trauma,15 May 2023,2023-05-19,4,,HMO
+261,P1438,Joseph Taylor,43.0,Male,Cardiology,Hypertension,12-22-2023,2024-01-02,11,5668.19,HMO
+262,P1806,PATRICIA JACKSON,40.0,M,Pediatrics,Asthma,10/07/2023,2023-07-12,2,579.46,Medicare
+263,P1169,BARBARA MILLER,55.0,Male,Cardiology,Arrhythmia,22 Aug 2023,2023-08-27,5,5125.14,Medicaid
+264,P1227,Thomas Thomas,52.0,m,General Medicine,Pneumonia,03-10-2024,2024-03-19,9,2137.17,HMO
+265,P1194,  William Moore  ,83.0,Male,Pediatrics,Chickenpox,16/09/2024,2024-09-21,5,798.73,HMO
+266,P1732,WILLIAM MILLER,43.0,F,Orthopedics,Sprain,21 Jan 2024,2024-01-22,1,1442.53,Medicare
+267,P1344,JESSICA MILLER,86.0,Male,Pediatrics,Asthma,08/09/2023,2023-09-13,5,14494.27,Uninsured
+268,P2118,Susan Martinez,65.0,M,Emergency,Appendicitis,2023-05-31,2023-06-06,6,11752.39,Medicare
+269,P1769,Jessica Taylor,27.0,f,Neurology,Stroke,2023-06-05,2023-06-08,3,14161.64,Uninsured
+270,P2131,  Susan Johnson  ,10.0,M,Pediatrics,Flu,28/01/2023,2023-01-29,1,7523.66,Medicare
+271,P2055,joseph white,67.0,F,Cardiology,Arrhythmia,18/08/2024,2024-08-19,1,4265.38,Medicaid
+272,P1391,jennifer rodriguez,1.0,m,Cardiology,Coronary Artery Disease,12 Oct 2024,2024-10-17,5,8607.85,Medicaid
+273,P1144,  Barbara Jackson  ,75.0,f,Neurology,Parkinson's Disease,2024-04-10,2024-04-11,1,7617.66,HMO
+274,P1035,  Jennifer Wilson  ,31.0,Female,Emergency,Burns,08 Jan 2023,2023-01-15,7,4142.31,PPO
+275,P1142,Joseph Taylor,65.0,F,Emergency,Burns,07/01/2024,2024-01-18,11,6919.56,Uninsured
+276,P2080,william rodriguez,52.0,f,Oncology,Leukemia,2024-07-21,2024-07-29,8,2783.67,Uninsured
+277,P1426,Mary White,,m,Orthopedics,Osteoarthritis,01 Jul 2024,2024-07-06,5,8332.93,Medicare
+278,P1353,jessica smith,67.0,M,Orthopedics,Sprain,21 Jul 2023,2023-07-27,6,10147.5,HMO
+279,P1973,jessica moore,14.0,Female,General Medicine,Pneumonia,27/06/2024,2024-06-28,1,8477.78,Medicaid
+280,P1249,mary white,27.0,M,Orthopedics,Joint Replacement,13/05/2024,2024-05-17,4,,HMO
+281,P2044,thomas williams,62.0,Male,Pediatrics,Ear Infection,04-30-2023,2023-05-02,2,8350.44,Medicare
+282,P2158,  Sarah Miller  ,9.0,F,Neurology,Parkinson's Disease,08-12-2024,2024-08-16,4,7391.84,Medicare
+283,P1304,  Michael Garcia  ,13.0,F,Orthopedics,Joint Replacement,2023-01-10,2023-01-19,9,1001.42,HMO
+284,P1166,JOHN GARCIA,50.0,Female,General Medicine,Pneumonia,19 Nov 2024,2024-11-30,11,11621.26,Medicaid
+285,P1336,richard miller,10.0,m,Pediatrics,Flu,2023-02-23,2023-03-01,6,2487.6,Medicaid
+286,P1796,Susan Smith,66.0,m,General Medicine,Pneumonia,10-31-2023,2023-11-10,10,3111.74,
+287,P1446,PATRICIA WILSON,29.0,M,Emergency,Burns,23/10/2024,2024-10-25,2,2299.53,
+288,P2014,  David Anderson  ,36.0,m,General Medicine,Diabetes,09-20-2024,2024-09-26,6,10958.97,PPO
+289,P1188,  Charles Anderson  ,85.0,f,Neurology,Parkinson's Disease,07-11-2024,2024-07-20,9,8702.1,Uninsured
+290,P2140,michael davis,89.0,Female,Orthopedics,Osteoarthritis,10-01-2023,2023-10-07,6,6391.16,Medicare
+291,P1661,  James Jones  ,1.0,M,Orthopedics,Osteoarthritis,05-28-2023,2023-06-08,11,5127.99,HMO
+292,P1073,  Charles Anderson  ,33.0,f,Oncology,Lung Cancer,08-03-2023,2023-08-11,8,7349.52,HMO
+293,P1497,Karen Brown,55.0,f,Orthopedics,Osteoarthritis,06-15-2023,2023-06-24,9,14031.78,HMO
+294,P1368,linda williams,18.0,Female,Neurology,Parkinson's Disease,03-04-2023,2023-03-06,2,14017.26,Medicare
+295,P1897,Robert Lee,32.0,F,Orthopedics,Sprain,01-12-2023,2023-01-14,2,9096.97,Uninsured
+296,P1165,JOHN THOMAS,60.0,Male,General Medicine,Diabetes,05/04/2024,2024-04-16,11,7880.87,PPO
+297,P1395,  Elizabeth Perez  ,83.0,Male,Emergency,Appendicitis,2024-09-06,2024-09-09,3,7507.24,Medicaid
+298,P1809,  Linda Moore  ,24.0,f,Pediatrics,Asthma,18/12/2023,2023-12-26,8,653.84,PPO
+299,P1724,RICHARD DAVIS,60.0,F,Emergency,Poisoning,24/06/2024,2024-06-28,4,8939.5,Uninsured
+300,P1190,John Perez,74.0,Male,Emergency,Appendicitis,21 Sep 2023,2023-09-26,5,13609.34,Medicaid
+301,P1513,barbara martin,65.0,M,Orthopedics,Sprain,06-28-2024,2024-07-08,10,13413.05,HMO
+302,P1481,David Thomas,85.0,Female,General Medicine,Anemia,2024-10-09,2024-10-10,1,7216.61,Medicare
+303,P1659,  Karen Lee  ,44.0,Male,Neurology,Parkinson's Disease,22/08/2024,2024-09-01,10,6018.25,HMO
+304,P1668,Linda Moore,37.0,F,Cardiology,Hypertension,19/01/2023,2023-01-24,5,4509.6,
+305,P1707,SUSAN WILLIAMS,40.0,Male,Neurology,Parkinson's Disease,08-27-2024,2024-08-28,1,1498.23,Uninsured
+306,P1916,MICHAEL GARCIA,39.0,f,General Medicine,Hypertension,10-10-2023,2023-10-12,2,11880.16,HMO
+307,P1612,joseph brown,26.0,Male,Cardiology,Heart Failure,19 Apr 2023,2023-04-20,1,3365.58,PPO
+308,P1757,  Mary Miller  ,51.0,Female,Pediatrics,Flu,10-22-2023,2023-10-31,9,,Medicare
+309,P1595,William Brown,50.0,Female,General Medicine,Anemia,2023-05-25,2023-05-28,3,11672.63,Uninsured
+310,P2025,  Richard Davis  ,50.0,M,General Medicine,Pneumonia,01-26-2024,2024-01-30,4,13520.48,HMO
+311,P1814,James Martin,85.0,Male,Orthopedics,Osteoarthritis,02/10/2024,2024-10-12,10,12458.07,Uninsured
+312,P1667,John Taylor,,Female,Pediatrics,Flu,10/11/2024,2024-11-14,4,9325.24,HMO
+313,P1859,WILLIAM THOMAS,16.0,,Orthopedics,Osteoarthritis,05-01-2023,2023-05-08,7,5473.0,PPO
+314,P1690,JESSICA WILSON,90.0,m,Cardiology,Heart Failure,03 Jun 2023,2023-06-14,11,5823.8,Medicare
+315,P1454,PATRICIA MOORE,18.0,Female,Pediatrics,Ear Infection,04-14-2024,2024-04-22,8,3409.65,Uninsured
+316,P1413,  Susan Lee  ,35.0,Female,Emergency,Burns,24 Nov 2023,2023-12-02,8,6135.58,Medicare
+317,P2016,mary thomas,11.0,f,Orthopedics,Osteoarthritis,15/02/2023,2023-02-26,11,2653.53,Medicaid
+318,P2048,Richard Lee,68.0,Female,Oncology,Lymphoma,16/09/2023,2023-09-19,3,9745.63,Medicaid
+319,P1752,CHARLES MARTIN,94.0,M,General Medicine,Pneumonia,24 Mar 2024,2024-03-27,3,10921.17,HMO
+320,P1202,jessica lee,87.0,Female,Pediatrics,Ear Infection,26 Feb 2023,2023-02-28,2,873.37,PPO
+321,P1324,richard williams,29.0,m,General Medicine,Diabetes,02 Aug 2024,2024-08-11,9,3195.69,PPO
+322,P1225,Thomas Johnson,23.0,Male,Oncology,Lymphoma,04-12-2023,2023-04-21,9,1527.66,Medicaid
+323,P1129,charles perez,70.0,Female,Neurology,Epilepsy,18 Apr 2024,2024-04-23,5,1456.1,PPO
+324,P1117,john thomas,43.0,Male,Emergency,Appendicitis,31 Aug 2024,2024-09-03,3,10354.32,HMO
+325,P1393,  David Martinez  ,87.0,m,Emergency,Trauma,08-31-2024,2024-09-10,10,4268.74,Uninsured
+326,P1219,linda garcia,38.0,F,Cardiology,Arrhythmia,07-02-2024,2024-07-13,11,13157.99,Uninsured
+327,P1819,  Susan Smith  ,41.0,Female,Pediatrics,Ear Infection,04-23-2023,2023-05-01,8,12015.74,Uninsured
+328,P1645,RICHARD MARTIN,10.0,f,Oncology,Lung Cancer,16/03/2023,2023-03-25,9,2233.95,HMO
+329,P1107,  Linda Martinez  ,69.0,f,Cardiology,Hypertension,03/01/2024,2024-01-13,10,10589.16,PPO
+330,P1710,  Patricia Smith  ,15.0,M,Emergency,Trauma,21 Jul 2024,2024-07-26,5,14825.79,PPO
+331,P1460,LINDA PEREZ,15.0,Male,Oncology,Leukemia,16 Nov 2024,2024-11-25,9,7503.46,PPO
+332,P2148,Patricia Rodriguez,77.0,Female,General Medicine,Diabetes,2023-08-25,2023-08-30,5,1086.33,
+333,P2095,  Mary Garcia  ,30.0,f,Neurology,Parkinson's Disease,12 Jul 2023,2023-07-15,3,6333.15,Uninsured
+334,P1763,  Michael Garcia  ,14.0,f,Pediatrics,Flu,17/03/2024,2024-03-20,3,,HMO
+335,P1450,KAREN THOMAS,87.0,F,Orthopedics,Osteoarthritis,2024-05-13,2024-05-15,2,1221.8,Medicaid
+336,P1351,Linda White,17.0,M,Neurology,Migraine,31 Mar 2023,2023-04-07,7,14642.97,PPO
+337,P2074,  Michael White  ,65.0,f,Cardiology,Heart Failure,27 Aug 2023,2023-09-06,10,5797.28,Medicaid
+338,P2031,THOMAS DAVIS,66.0,Male,Emergency,Burns,16 May 2023,2023-05-23,7,8221.73,Medicare
+339,P2118,Susan Martinez,65.0,M,Emergency,Appendicitis,2023-05-31,2023-06-06,6,11752.39,Medicare
+340,P1705,JENNIFER DAVIS,57.0,Female,Pediatrics,Chickenpox,10-06-2024,2024-10-10,4,6278.39,Uninsured
+341,P1591,RICHARD MARTINEZ,33.0,f,Orthopedics,Sprain,09-27-2024,2024-10-03,6,11122.64,Medicaid
+342,P1665,LINDA MILLER,56.0,F,Oncology,Leukemia,08-05-2024,2024-08-06,1,13920.42,
+343,P1300,JESSICA BROWN,42.0,f,Oncology,Lung Cancer,13 Mar 2023,2023-03-24,11,13145.36,Medicaid
+344,P1025,joseph white,76.0,Male,Orthopedics,Osteoarthritis,10/11/2024,2024-11-12,2,10450.97,Medicare
+345,P1507,james perez,7.0,F,Pediatrics,Ear Infection,26 Feb 2024,2024-02-27,1,13591.21,Medicare
+346,P2046,  David Taylor  ,55.0,f,General Medicine,Diabetes,2024-05-31,2024-06-07,7,7872.1,Medicaid
+347,P1543,Charles Brown,48.0,Female,Pediatrics,Flu,2023-06-06,2023-06-13,7,7139.33,
+348,P1600,  Thomas Thomas  ,94.0,F,Emergency,Burns,28 Mar 2024,2024-03-30,2,5371.87,PPO
+349,P2021,PATRICIA DAVIS,16.0,M,Cardiology,Arrhythmia,2024-04-18,2024-04-20,2,3888.95,Medicare
+350,P1375,patricia jones,38.0,,Cardiology,Hypertension,16 Mar 2024,2024-03-24,8,8432.13,Medicaid
+351,P1053,richard jones,62.0,Male,Pediatrics,Ear Infection,2023-04-25,2023-04-27,2,7987.3,PPO
+352,P1301,  Elizabeth Moore  ,91.0,Male,Cardiology,Coronary Artery Disease,2023-01-18,2023-01-27,9,13748.54,Medicaid
+353,P2087,joseph davis,79.0,m,Cardiology,Coronary Artery Disease,25 Dec 2023,2023-12-29,4,13535.89,PPO
+354,P1861,elizabeth martinez,81.0,f,General Medicine,Hypertension,12 Apr 2023,2023-04-16,4,2124.51,Medicare
+355,P1205,charles thomas,83.0,M,Neurology,Parkinson's Disease,21 Mar 2023,2023-03-24,3,11956.27,Medicaid
+356,P1448,Susan White,46.0,F,Neurology,Migraine,15 Jan 2023,2023-01-19,4,14749.26,Medicare
+357,P1794,barbara davis,19.0,M,Orthopedics,Fracture,2023-06-18,2023-06-28,10,6974.52,Medicare
+358,P1811,  James Smith  ,38.0,M,Orthopedics,Osteoarthritis,11-16-2023,2023-11-23,7,3623.65,PPO
+359,P1978,linda rodriguez,3.0,M,Oncology,Lymphoma,11/11/2023,2023-11-22,11,14477.37,Medicare
+360,P1418,elizabeth jones,64.0,Female,Emergency,Poisoning,2023-08-17,2023-08-28,11,12830.3,Uninsured
+361,P1680,jennifer garcia,52.0,F,General Medicine,Diabetes,2023-11-19,2023-11-26,7,736.4,HMO
+362,P1866,  Karen Anderson  ,87.0,Male,Emergency,Burns,29/02/2024,2024-03-08,8,3489.25,Uninsured
+363,P1495,MICHAEL DAVIS,61.0,F,Emergency,Poisoning,13 Nov 2024,2024-11-15,2,5690.69,HMO
+364,P1993,  Jessica Lee  ,42.0,f,Pediatrics,Asthma,09-25-2024,2024-10-03,8,11208.98,PPO
+365,P1604,CHARLES MILLER,70.0,f,Emergency,Appendicitis,08/02/2023,2023-02-16,8,7288.06,Uninsured
+366,P1196,John Martinez,28.0,M,Neurology,Epilepsy,08-29-2023,2023-09-03,5,8073.0,Medicare
+367,P2130,RICHARD BROWN,5.0,m,General Medicine,Anemia,19 Oct 2023,2023-10-22,3,7216.13,Medicare
+368,P1999,william jackson,42.0,Male,Cardiology,Hypertension,21 Aug 2023,2023-08-27,6,14982.3,PPO
+369,P1666,Elizabeth Johnson,44.0,m,Neurology,Stroke,03-19-2023,2023-03-22,3,1191.22,HMO
+370,P1590,William Perez,57.0,Female,Pediatrics,Chickenpox,01 Jan 2023,2023-01-08,7,14118.7,Medicare
+371,P1803,elizabeth moore,67.0,F,Oncology,Breast Cancer,03/08/2023,2023-08-08,5,4752.35,Medicare
+372,P1125,  Sarah Martinez  ,91.0,m,Emergency,Burns,15/03/2023,2023-03-18,3,4156.67,Medicare
+373,P1951,barbara thomas,46.0,F,General Medicine,Pneumonia,07 Nov 2024,2024-11-10,3,5961.11,Medicare
+374,P1056,JOHN RODRIGUEZ,78.0,f,Cardiology,Hypertension,10/11/2023,2023-11-18,8,4183.68,HMO
+375,P2072,mary miller,,m,Emergency,Trauma,2024-10-06,2024-10-16,10,12573.82,PPO
+376,P1472,Thomas Jones,56.0,m,Neurology,Epilepsy,24 May 2024,2024-06-03,10,10080.12,PPO
+377,P1323,mary brown,78.0,M,Neurology,Stroke,2024-07-09,2024-07-18,9,13119.57,Medicaid
+378,P1510,  Thomas White  ,85.0,Female,Cardiology,Arrhythmia,05/06/2024,2024-06-14,9,13497.31,HMO
+379,P1385,  Mary Johnson  ,52.0,m,Oncology,Breast Cancer,16 Nov 2024,2024-11-18,2,10771.04,PPO
+380,P1250,Barbara Jones,92.0,m,Emergency,Burns,07 Apr 2024,2024-04-08,1,2406.22,Uninsured
+381,P1801,  Karen Davis  ,44.0,m,Pediatrics,Chickenpox,09-13-2023,2023-09-15,2,6448.8,PPO
+382,P1871,  James Johnson  ,7.0,F,Oncology,Leukemia,2024-03-03,2024-03-05,2,8532.61,PPO
+383,P1297,Sarah Jones,87.0,Female,Orthopedics,Osteoarthritis,17 May 2023,2023-05-18,1,10530.29,Uninsured
+384,P1423,  Susan Wilson  ,66.0,Female,Neurology,Parkinson's Disease,17 Aug 2023,2023-08-19,2,8660.85,Uninsured
+385,P1602,  William Thomas  ,,M,Pediatrics,Ear Infection,11 Nov 2023,2023-11-22,11,9398.87,HMO
+386,P1260,  Jessica Williams  ,17.0,F,Pediatrics,Flu,03-26-2023,2023-03-28,2,12896.86,Medicaid
+387,P1312,Patricia Rodriguez,74.0,f,Pediatrics,Ear Infection,20 Jan 2024,2024-01-25,5,4639.89,HMO
+388,P1780,  Mary Williams  ,23.0,F,Orthopedics,Osteoarthritis,20 Apr 2024,2024-04-26,6,10037.16,HMO
+389,P1887,Linda Brown,80.0,f,Emergency,Appendicitis,18/10/2024,2024-10-21,3,9125.72,PPO
+390,P1500,Susan Perez,72.0,M,Cardiology,Arrhythmia,21/04/2024,2024-04-26,5,9596.19,PPO
+391,P1273,  Patricia Rodriguez  ,1.0,Female,General Medicine,Hypertension,02 Oct 2024,2024-10-05,3,10070.52,Medicaid
+392,P1459,JENNIFER DAVIS,-1.0,Male,Orthopedics,Joint Replacement,16/07/2024,2024-07-27,11,14483.2,Medicare
+393,P1220,david martin,3.0,f,Oncology,Breast Cancer,13/02/2023,2023-02-18,5,6241.0,Medicare
+394,P1328,joseph moore,51.0,Female,General Medicine,Hypertension,07-31-2023,2023-08-11,11,2337.81,Medicaid
+395,P2004,  Linda Anderson  ,70.0,m,Neurology,Epilepsy,03-18-2024,2024-03-24,6,644.83,Uninsured
+396,P1895,ROBERT RODRIGUEZ,59.0,m,General Medicine,Pneumonia,2023-02-02,2023-02-10,8,1572.98,PPO
+397,P1571,SARAH SMITH,45.0,Male,Neurology,Epilepsy,09 Dec 2023,2023-12-10,1,6960.98,HMO
+398,P1291,William Johnson,52.0,m,Neurology,Stroke,20 Aug 2023,2023-08-23,3,1410.45,Medicare
+399,P2116,Elizabeth Lee,82.0,f,Oncology,Lung Cancer,01-05-2023,2023-01-15,10,3441.63,Uninsured
+400,P2017,  Mary Rodriguez  ,32.0,Female,General Medicine,,2023-03-22,2023-04-01,10,14576.98,PPO
+401,P2104,Michael Jones,68.0,M,Pediatrics,Asthma,08-12-2024,2024-08-13,1,8257.18,PPO
+402,P2019,PATRICIA BROWN,63.0,m,Cardiology,Hypertension,03-22-2024,2024-03-25,3,7021.62,Uninsured
+403,P1104,  Elizabeth Jackson  ,32.0,F,Cardiology,Arrhythmia,2023-12-26,2023-12-29,3,6649.25,Medicaid
+404,P1019,william anderson,6.0,F,Neurology,Parkinson's Disease,20 Mar 2024,2024-03-27,7,3051.05,Medicaid
+405,P2010,ROBERT BROWN,10.0,M,General Medicine,Anemia,29 Apr 2023,2023-05-02,3,11306.99,Medicaid
+406,P1315,James Taylor,70.0,f,Neurology,Stroke,2023-11-02,2023-11-05,3,8671.41,Medicare
+407,P2083,Karen Smith,91.0,m,Orthopedics,Fracture,11-21-2023,2023-12-02,11,12149.88,Uninsured
+408,P1995,karen moore,72.0,F,General Medicine,Pneumonia,2024-10-25,2024-10-29,4,1188.52,Medicaid
+409,P1352,Sarah Lee,9.0,Male,General Medicine,Anemia,2023-11-30,2023-12-03,3,7321.47,HMO
+410,P1971,elizabeth jones,20.0,M,General Medicine,Diabetes,08 Oct 2023,2023-10-19,11,3531.13,Medicaid
+411,P1560,DAVID WILLIAMS,91.0,f,Cardiology,Hypertension,18/09/2024,2024-09-21,3,9448.98,Uninsured
+412,P1793,susan garcia,33.0,m,General Medicine,Anemia,26/07/2023,2023-08-03,8,4243.08,Medicaid
+413,P1127,  Jennifer Perez  ,76.0,Female,Emergency,Burns,22/02/2023,2023-03-01,7,12296.55,Medicare
+414,P1487,Patricia Garcia,3.0,Male,General Medicine,Hypertension,09-09-2024,2024-09-14,5,11666.34,Uninsured
+415,P1551,  Jessica Smith  ,91.0,Male,Oncology,Lung Cancer,01-31-2023,2023-02-02,2,9773.94,
+416,P1727,Jennifer Williams,39.0,f,Cardiology,Coronary Artery Disease,2024-03-04,2024-03-07,3,1759.81,Medicaid
+417,P1146,SUSAN MARTIN,65.0,Female,Oncology,Breast Cancer,25/05/2024,2024-05-26,1,14140.32,PPO
+418,P1045,william brown,4.0,Female,Neurology,Stroke,17/11/2024,2024-11-25,8,13101.8,PPO
+419,P2147,ELIZABETH RODRIGUEZ,1.0,Female,Emergency,Burns,26/12/2023,2023-12-27,1,8403.56,Medicare
+420,P2001,  Karen Davis  ,5.0,Female,Orthopedics,Joint Replacement,28 Apr 2024,2024-05-07,9,9821.05,Uninsured
+421,P1443,susan jones,55.0,Female,Orthopedics,Osteoarthritis,11-29-2024,2024-12-06,7,10511.89,Medicaid
+422,P2117,Linda Johnson,3.0,Male,Emergency,Trauma,29/06/2024,2024-06-30,1,,PPO
+423,P1317,JOSEPH GARCIA,14.0,m,Emergency,Poisoning,2023-08-21,2023-09-01,11,2822.95,PPO
+424,P1167,Jessica Davis,6.0,m,Emergency,Burns,10 Aug 2023,2023-08-18,8,4271.71,Medicare
+425,P1749,mary brown,9.0,m,Neurology,Migraine,21/10/2023,2023-10-28,7,3079.22,PPO
+426,P1463,  Jennifer Moore  ,5.0,f,Orthopedics,Osteoarthritis,02-04-2024,2024-02-14,10,12195.09,HMO
+427,P1568,MARY MARTIN,22.0,f,Cardiology,Heart Failure,11/07/2023,2023-07-21,10,11431.42,Uninsured
+428,P1656,  Susan Wilson  ,36.0,m,General Medicine,Hypertension,13/08/2024,2024-08-24,11,8108.73,Medicaid
+429,P1088,ELIZABETH MILLER,38.0,Male,Pediatrics,Chickenpox,05-26-2024,2024-05-30,4,10195.45,Medicare
+430,P1334,Elizabeth Thomas,4.0,M,Orthopedics,Osteoarthritis,06-30-2023,2023-07-09,9,1219.72,Medicare
+431,P1018,susan smith,66.0,Female,Pediatrics,Ear Infection,03 Aug 2023,2023-08-12,9,8957.2,HMO
+432,P1565,robert johnson,72.0,f,Emergency,Poisoning,15 Oct 2024,2024-10-21,6,10165.89,Medicare
+433,P1944,linda wilson,47.0,f,General Medicine,Hypertension,2024-04-11,2024-04-15,4,13988.39,Uninsured
+434,P1055,mary martin,85.0,F,Orthopedics,Sprain,13 Aug 2023,2023-08-21,8,4512.52,HMO
+435,P2144,thomas white,26.0,f,Cardiology,Arrhythmia,08-12-2024,2024-08-23,11,6056.12,Uninsured
+436,P1844,  Elizabeth Miller  ,34.0,,Pediatrics,Asthma,12/04/2024,2024-04-18,6,2281.56,Medicaid
+437,P1910,michael garcia,17.0,f,General Medicine,Diabetes,22/05/2024,2024-05-23,1,12094.76,Uninsured
+438,P1725,susan wilson,58.0,f,Oncology,Lung Cancer,2023-03-03,2023-03-04,1,6943.74,Uninsured
+439,P1252,Richard Wilson,93.0,f,Neurology,Epilepsy,2023-09-21,2023-09-30,9,14662.1,PPO
+440,P1069,SUSAN TAYLOR,87.0,M,Neurology,Migraine,16/03/2023,2023-03-26,10,8402.4,Medicare
+441,P1635,  Charles Martin  ,25.0,f,Cardiology,Coronary Artery Disease,02-26-2023,2023-03-06,8,13257.25,
+442,P1552,JESSICA MARTIN,28.0,M,Emergency,Appendicitis,09 Aug 2023,2023-08-13,4,7952.29,PPO
+443,P1807,robert lee,87.0,F,Oncology,Lung Cancer,06 Jul 2023,2023-07-16,10,6438.96,Medicaid
+444,P1675,jennifer wilson,34.0,m,Neurology,Stroke,05-09-2023,2023-05-14,5,11202.46,Medicaid
+445,P1007,PATRICIA GARCIA,2.0,F,Orthopedics,Sprain,10-06-2024,2024-10-07,1,8829.81,Uninsured
+446,P1802,Jennifer Martinez,94.0,Female,Pediatrics,Asthma,08/11/2024,2024-11-12,4,12423.25,PPO
+447,P1406,  Sarah Brown  ,54.0,M,Orthopedics,Sprain,27/08/2023,2023-09-01,5,11934.98,Medicare
+448,P2081,Thomas Miller,2.0,Male,General Medicine,Diabetes,11-16-2023,2023-11-17,1,10292.26,Medicaid
+449,P2000,DAVID THOMAS,47.0,m,Emergency,Poisoning,05 Feb 2024,2024-02-11,6,9560.98,Medicaid
+450,P2185,CHARLES WILSON,54.0,M,Oncology,Lung Cancer,04 Jul 2023,2023-07-12,8,2316.05,
+451,P2141,barbara anderson,3.0,M,Neurology,Epilepsy,2024-01-24,2024-01-28,4,8164.67,Medicare
+452,P2163,David Anderson,49.0,f,Oncology,Lung Cancer,17/11/2023,2023-11-26,9,11455.18,PPO
+453,P1033,charles garcia,23.0,M,Oncology,Lymphoma,13/06/2024,2024-06-21,8,,Medicaid
+454,P1434,  Elizabeth White  ,44.0,M,Neurology,Migraine,23 Jul 2023,2023-07-24,1,5318.8,Uninsured
+455,P1607,  David Davis  ,8.0,f,Neurology,Epilepsy,07-26-2023,2023-08-02,7,12306.09,HMO
+456,P1214,patricia brown,27.0,m,Neurology,Epilepsy,07-14-2024,2024-07-18,4,774.94,PPO
+457,P1326,  John Jackson  ,81.0,Female,Neurology,Migraine,15 Jul 2024,2024-07-25,10,2471.84,Uninsured
+458,P2107,mary davis,85.0,Male,Oncology,Lymphoma,2023-12-24,2023-12-25,1,12839.09,Uninsured
+459,P1048,  James Thomas  ,59.0,F,Neurology,Parkinson's Disease,11-25-2024,2024-11-27,2,1188.99,Medicaid
+460,P1979,  Susan Perez  ,20.0,Female,Neurology,Stroke,11 Apr 2023,2023-04-14,3,5322.17,PPO
+461,P1788,karen garcia,60.0,m,General Medicine,Diabetes,23/07/2023,2023-07-24,1,12959.07,PPO
+462,P1518,Jessica Brown,77.0,f,Cardiology,Arrhythmia,2024-05-01,2024-05-02,1,11497.65,
+463,P1282,PATRICIA LEE,91.0,Male,Pediatrics,,02/01/2023,2023-01-05,3,11724.55,Medicaid
+464,P2070,william martin,51.0,Male,Neurology,Parkinson's Disease,04/10/2023,2023-10-15,11,13877.58,HMO
+465,P2096,CHARLES JACKSON,38.0,Male,Oncology,Lung Cancer,01-22-2023,2023-01-24,2,4931.46,HMO
+466,P2084,david wilson,22.0,M,Orthopedics,Sprain,02-12-2023,2023-02-17,5,8925.52,Uninsured
+467,P1772,  John Anderson  ,19.0,M,Pediatrics,Asthma,2023-01-03,2023-01-14,11,6693.19,PPO
+468,P1743,JOHN WILLIAMS,40.0,f,Neurology,Stroke,18/10/2023,2023-10-27,9,4324.92,Medicaid
+469,P1804,  David Garcia  ,27.0,m,Oncology,Leukemia,22/09/2023,2023-09-29,7,1381.71,HMO
+470,P2076,  William Lee  ,74.0,f,General Medicine,Diabetes,2024-10-15,2024-10-17,2,10960.23,Medicare
+471,P1539,ELIZABETH JONES,7.0,Male,Emergency,Trauma,08 Aug 2024,2024-08-16,8,6906.81,Uninsured
+472,P2160,jessica rodriguez,4.0,Male,Pediatrics,Asthma,16 Nov 2023,2023-11-20,4,9852.28,Medicaid
+473,P1541,Richard Jones,83.0,Male,Cardiology,Hypertension,2023-01-26,2023-01-30,4,4040.78,Medicaid
+474,P1554,michael taylor,50.0,Male,Cardiology,Hypertension,07-24-2023,2023-08-04,11,7912.0,Medicaid
+475,P1917,william wilson,10.0,m,General Medicine,Hypertension,28/05/2024,2024-05-30,2,7427.93,PPO
+476,P1894,PATRICIA BROWN,7.0,m,Neurology,,15 Nov 2023,2023-11-23,8,2967.33,Uninsured
+477,P1026,patricia williams,32.0,,Orthopedics,Osteoarthritis,13 Mar 2024,2024-03-18,5,472.51,HMO
+478,P2027,MARY MARTIN,67.0,Male,Pediatrics,Flu,12 May 2023,2023-05-14,2,8069.71,PPO
+479,P1208,Jennifer Moore,27.0,Male,Emergency,Burns,11/07/2023,2023-07-17,6,2483.03,PPO
+480,P1503,  Sarah Miller  ,12.0,Female,General Medicine,Anemia,24 Mar 2023,2023-03-26,2,13993.34,Medicare
+481,P1347,SUSAN GARCIA,,F,Orthopedics,Fracture,2024-11-29,2024-12-10,11,7694.74,Medicare
+482,P1761,SARAH MARTINEZ,63.0,f,Cardiology,Heart Failure,09-18-2023,2023-09-22,4,6234.26,Medicaid
+483,P2009,BARBARA THOMAS,24.0,f,Neurology,Migraine,15/05/2024,2024-05-23,8,5658.12,Medicaid
+484,P1985,  Charles Smith  ,42.0,Female,Cardiology,Arrhythmia,13/02/2023,2023-02-24,11,12792.25,PPO
+485,P1098,MARY WHITE,80.0,Female,Neurology,Stroke,12-08-2023,2023-12-12,4,11361.73,Medicare
+486,P2164,  Joseph Thomas  ,79.0,M,Oncology,Leukemia,01-16-2023,2023-01-25,9,7446.73,Medicaid
+487,P2149,Sarah Brown,42.0,m,General Medicine,Diabetes,12 Feb 2024,2024-02-18,6,11989.09,Medicaid
+488,P1394,Charles Miller,59.0,Male,Oncology,Breast Cancer,19 Jan 2024,2024-01-23,4,7699.12,PPO
+489,P1654,  William Miller  ,44.0,m,Neurology,Stroke,26/02/2023,2023-03-05,7,10131.4,Uninsured
+490,P1364,  Charles Rodriguez  ,23.0,m,Emergency,Trauma,11 Feb 2024,2024-02-14,3,3667.27,PPO
+491,P1680,jennifer garcia,52.0,F,General Medicine,Diabetes,2023-11-19,2023-11-26,7,736.4,HMO
+492,P1369,  James Martinez  ,52.0,Female,Orthopedics,Joint Replacement,09/03/2024,2024-03-12,3,10304.99,HMO
+493,P1416,DAVID PEREZ,94.0,Female,Orthopedics,Osteoarthritis,19 Apr 2024,2024-04-23,4,2838.89,Medicaid
+494,P1143,  Richard Martinez  ,71.0,f,General Medicine,Anemia,25 Nov 2023,2023-12-02,7,4284.86,HMO
+495,P1545,JOHN GARCIA,4.0,m,Cardiology,Arrhythmia,2023-11-22,2023-12-03,11,10346.62,PPO
+496,P2168,JOSEPH MARTIN,57.0,F,Emergency,Trauma,2024-01-29,2024-02-01,3,7701.17,Medicare
+497,P1465,Elizabeth Perez,37.0,Male,Neurology,Migraine,06-30-2024,2024-07-11,11,9303.59,Medicaid
+498,P1932,James Wilson,28.0,F,Oncology,Breast Cancer,24 May 2023,2023-05-28,4,6531.73,Medicaid
+499,P1583,  William Lee  ,40.0,M,Oncology,Breast Cancer,2023-05-29,2023-05-31,2,9894.85,Medicare
+500,P1853,  David Perez  ,28.0,m,Cardiology,Coronary Artery Disease,04-27-2023,2023-04-28,1,7664.02,HMO
+501,P2111,SARAH SMITH,65.0,m,Cardiology,Heart Failure,25 Jan 2023,2023-01-26,1,,Medicare
+502,P1746,James Anderson,85.0,,Neurology,Epilepsy,11 May 2023,2023-05-15,4,10496.23,Medicaid
+503,P1573,CHARLES MARTINEZ,30.0,F,Pediatrics,Ear Infection,2023-03-18,2023-03-19,1,12796.98,Medicare
+504,P1370,  William Garcia  ,64.0,Male,Neurology,Migraine,20/08/2023,2023-08-22,2,2954.85,Uninsured
+505,P1284,Charles Thomas,91.0,m,Emergency,Trauma,03-11-2023,2023-03-13,2,9382.71,Medicaid
+506,P1082,Jennifer Brown,9.0,Female,Neurology,Parkinson's Disease,12 May 2024,2024-05-16,4,8332.44,Medicaid
+507,P2049,Thomas Jackson,13.0,m,General Medicine,Anemia,07-10-2023,2023-07-17,7,5869.44,Medicare
+508,P1101,william davis,75.0,Male,Orthopedics,Osteoarthritis,30 Jun 2024,2024-07-11,11,13837.01,PPO
+509,P2101,  Jessica Miller  ,84.0,Female,Pediatrics,Flu,2023-12-14,2023-12-18,4,13363.49,HMO
+510,P1585,  Jennifer Moore  ,21.0,F,Oncology,Lung Cancer,01-07-2024,2024-01-14,7,9104.32,Uninsured
+511,P1285,  James Perez  ,16.0,m,Orthopedics,Fracture,2023-04-03,2023-04-10,7,1895.02,
+512,P1914,David Davis,73.0,F,Neurology,Migraine,2023-09-05,2023-09-16,11,14374.71,Medicaid
+513,P1676,JOHN WILSON,38.0,F,Cardiology,,13/03/2024,2024-03-17,4,3837.49,HMO
+514,P1295,JAMES WILLIAMS,48.0,Female,Pediatrics,Asthma,12/06/2023,2023-06-23,11,9722.78,PPO
+515,P1857,elizabeth perez,85.0,m,Cardiology,Arrhythmia,2024-10-06,2024-10-10,4,3829.79,Medicaid
+516,P1211,  Joseph Perez  ,9.0,Male,Orthopedics,Joint Replacement,2023-03-13,2023-03-17,4,766.95,Medicaid
+517,P1926,  Sarah Moore  ,85.0,m,Neurology,Stroke,12 Jul 2024,2024-07-18,6,13633.78,Medicare
+518,P2023,JOHN JOHNSON,1.0,m,Oncology,,23/06/2023,2023-06-30,7,7578.06,Medicaid
+519,P1343,Elizabeth Miller,25.0,m,Orthopedics,Osteoarthritis,18 Nov 2023,2023-11-19,1,14613.93,HMO
+520,P2011,michael lee,32.0,F,Oncology,Leukemia,05-07-2024,2024-05-13,6,6678.91,Medicaid
+521,P1038,JOSEPH GARCIA,,Male,Cardiology,Arrhythmia,13 Oct 2024,2024-10-19,6,5397.94,Medicare
+522,P1331,Sarah Smith,6.0,Male,Cardiology,Hypertension,08 Nov 2023,2023-11-19,11,1573.3,Uninsured
+523,P1646,Joseph Garcia,52.0,F,Cardiology,Coronary Artery Disease,2023-10-21,2023-10-31,10,6358.7,Uninsured
+524,P2035,  Charles Jones  ,45.0,Female,Cardiology,Heart Failure,09-14-2023,2023-09-19,5,7510.28,PPO
+525,P1765,David Taylor,75.0,F,Emergency,Burns,06-09-2024,2024-06-10,1,9139.48,Medicare
+526,P1544,richard perez,64.0,m,Neurology,Migraine,03/04/2023,2023-04-14,11,11044.23,Uninsured
+527,P1165,JOHN THOMAS,60.0,Male,General Medicine,Diabetes,05/04/2024,2024-04-16,11,7880.87,PPO
+528,P1270,  Jennifer Thomas  ,89.0,m,Orthopedics,Joint Replacement,2024-10-30,2024-11-04,5,4951.88,HMO
+529,P1449,Barbara Wilson,66.0,Male,Pediatrics,Chickenpox,2024-03-28,2024-04-01,4,3432.2,Medicare
+530,P1872,William Jones,73.0,f,General Medicine,Pneumonia,29 Jul 2024,2024-08-03,5,5508.71,PPO
+531,P2137,charles johnson,80.0,Male,Emergency,Trauma,23/04/2024,2024-05-01,8,10454.67,HMO
+532,P1015,  Joseph Rodriguez  ,28.0,F,Emergency,Trauma,05 Oct 2024,2024-10-12,7,10881.62,Medicaid
+533,P1996,Joseph Brown,37.0,M,Cardiology,Hypertension,27/05/2023,2023-06-04,8,1733.69,HMO
+534,P1930,JENNIFER BROWN,20.0,Male,Emergency,Burns,06 Apr 2023,2023-04-10,4,10064.72,PPO
+535,P1901,MICHAEL LEE,10.0,Female,Emergency,Trauma,05/02/2023,2023-02-16,11,5676.95,PPO
+536,P2193,jennifer smith,,F,Emergency,Appendicitis,03-12-2023,2023-03-22,10,4161.57,Uninsured
+537,P1452,  David Rodriguez  ,43.0,f,Orthopedics,Fracture,19/07/2023,2023-07-22,3,943.47,Medicare
+538,P1520,DAVID WILSON,29.0,F,Cardiology,Hypertension,2023-01-19,2023-01-25,6,3974.08,Medicaid
+539,P1701,robert miller,1.0,Male,Cardiology,Coronary Artery Disease,03-01-2024,2024-03-10,9,10884.17,Medicaid
+540,P1982,Joseph Taylor,,Female,Emergency,Trauma,18/05/2023,2023-05-21,3,6394.49,PPO
+541,P2099,john moore,8.0,F,General Medicine,Anemia,01 Mar 2024,2024-03-10,9,11178.72,HMO
+542,P1100,  John Johnson  ,46.0,F,Emergency,Burns,09-07-2024,2024-09-13,6,2182.26,Medicare
+543,P1113,WILLIAM ANDERSON,28.0,F,Pediatrics,Asthma,2023-08-01,2023-08-06,5,8502.96,PPO
+544,P1005,Richard Jackson,58.0,Female,Oncology,Breast Cancer,14 May 2023,2023-05-16,2,3050.72,PPO
+545,P1042,BARBARA GARCIA,36.0,F,Oncology,Leukemia,02/01/2024,2024-01-03,1,8504.84,Medicare
+546,P1052,  Michael Davis  ,30.0,F,Emergency,Appendicitis,07/05/2023,2023-05-09,2,1062.85,Uninsured
+547,P1363,CHARLES MARTIN,45.0,,Emergency,Appendicitis,2024-07-24,2024-07-26,2,8224.98,Uninsured
+548,P1756,susan moore,7.0,Male,Oncology,Lung Cancer,24 Dec 2023,2024-01-03,10,7151.43,Medicare
+549,P1004,john perez,6.0,Female,Neurology,Epilepsy,23 Oct 2024,2024-10-24,1,7241.86,PPO
+550,P1153,barbara rodriguez,56.0,m,Emergency,Burns,23 Jun 2024,2024-06-30,7,8786.07,HMO
+551,P1903,charles perez,59.0,f,Pediatrics,Chickenpox,21 Jun 2023,2023-06-24,3,3165.48,Uninsured
+552,P1147,Joseph Perez,70.0,f,Orthopedics,Sprain,2023-06-30,2023-07-07,7,13484.6,Uninsured
+553,P1091,patricia martin,22.0,F,Orthopedics,Joint Replacement,2024-05-13,2024-05-14,1,5537.83,Medicaid
+554,P1706,JESSICA DAVIS,43.0,M,Pediatrics,Asthma,08/05/2024,2024-05-12,4,5361.44,Medicaid
+555,P1195,Susan Martinez,92.0,f,Oncology,Leukemia,10-17-2023,2023-10-21,4,12898.23,Medicare
+556,P2142,WILLIAM MILLER,34.0,f,Oncology,Breast Cancer,05-30-2023,2023-06-04,5,6770.82,Uninsured
+557,P1713,Jennifer Martinez,74.0,F,Oncology,Lung Cancer,03-27-2023,2023-04-03,7,12034.4,Uninsured
+558,P1536,  Michael Moore  ,70.0,F,General Medicine,Anemia,2024-01-28,2024-02-04,7,9032.56,PPO
+559,P1105,Mary White,84.0,m,Emergency,Trauma,2023-05-27,2023-06-05,9,11491.06,Medicaid
+560,P1550,  Linda Williams  ,32.0,M,Emergency,Burns,2024-04-11,2024-04-17,6,3637.88,Uninsured
+561,P1841,  William Jackson  ,53.0,M,Orthopedics,Sprain,27/09/2023,2023-10-02,5,14726.25,HMO
+562,P1255,SARAH WILLIAMS,23.0,m,Orthopedics,Fracture,2023-01-06,2023-01-11,5,7598.05,Uninsured
+563,P1569,sarah smith,85.0,Male,Neurology,Migraine,2024-10-26,2024-11-06,11,1606.77,PPO
+564,P1771,ELIZABETH THOMAS,32.0,m,Neurology,Migraine,23 Nov 2023,2023-12-03,10,13452.17,Medicare
+565,P1954,karen white,81.0,M,Oncology,Breast Cancer,2024-03-01,2024-03-07,6,12406.42,Medicare
+566,P1642,Richard Taylor,86.0,F,General Medicine,Pneumonia,2023-11-01,2023-11-06,5,1710.6,PPO
+567,P1617,DAVID WHITE,39.0,,Cardiology,Heart Failure,12-12-2023,2023-12-22,10,11603.57,
+568,P1696,  David Martinez  ,37.0,f,Pediatrics,Chickenpox,06-27-2024,2024-07-01,4,1790.73,HMO
+569,P1445,susan rodriguez,94.0,f,Cardiology,Coronary Artery Disease,2024-04-26,2024-04-27,1,7933.65,Uninsured
+570,P2155,david moore,43.0,M,General Medicine,Diabetes,05-30-2023,2023-06-06,7,4651.51,Medicare
+571,P1428,Elizabeth Perez,9.0,F,Neurology,Epilepsy,11-07-2024,2024-11-15,8,6591.05,Uninsured
+572,P2022,  Thomas Martin  ,21.0,M,Emergency,Appendicitis,2024-04-26,2024-05-02,6,4641.9,Medicaid
+573,P1192,JOHN TAYLOR,19.0,M,Pediatrics,,05/11/2024,2024-11-15,10,13966.36,Medicare
+574,P1499,ROBERT RODRIGUEZ,13.0,f,Neurology,,29 Dec 2023,2024-01-02,4,11465.01,Uninsured
+575,P1615,Linda Thomas,92.0,M,Oncology,Leukemia,2024-08-31,2024-09-10,10,554.36,Medicaid
+576,P2165,Jessica White,25.0,F,Orthopedics,Fracture,22 Jan 2024,2024-01-31,9,1271.07,Medicare
+577,P1534,Susan Brown,12.0,m,Cardiology,Heart Failure,2023-05-05,2023-05-16,11,10367.62,Medicare
+578,P1313,BARBARA JACKSON,38.0,F,Orthopedics,Fracture,2023-03-16,2023-03-17,1,11056.83,Uninsured
+579,P1921,  Robert Anderson  ,,f,Cardiology,Hypertension,18 Oct 2023,2023-10-19,1,10637.02,HMO
+580,P1742,THOMAS TAYLOR,61.0,Male,General Medicine,Hypertension,05-06-2023,2023-05-08,2,13421.85,Uninsured
+581,P1047,David Lee,69.0,f,Emergency,Appendicitis,2023-01-19,2023-01-22,3,4041.52,Uninsured
+582,P1698,joseph anderson,5.0,m,Pediatrics,Asthma,2023-02-05,2023-02-16,11,308.97,HMO
+583,P1009,barbara moore,8.0,Male,General Medicine,Pneumonia,10 Aug 2023,2023-08-12,2,566.22,Medicare
+584,P1672,Patricia Rodriguez,18.0,Male,Cardiology,Heart Failure,16 Aug 2024,2024-08-26,10,12691.52,PPO
+585,P1708,  Sarah Wilson  ,49.0,F,Emergency,Poisoning,29 Oct 2023,2023-11-02,4,11201.58,PPO
+586,P1090,  William Lee  ,7.0,F,Orthopedics,Fracture,28/05/2023,2023-06-07,10,5285.3,Uninsured
+587,P1891,  David Lee  ,7.0,f,Emergency,Poisoning,03-10-2024,2024-03-17,7,4466.0,HMO
+588,P1276,David Garcia,24.0,m,Cardiology,Hypertension,2023-09-25,2023-10-06,11,11710.29,Uninsured
+589,P1477,  Karen Thomas  ,58.0,f,Orthopedics,Osteoarthritis,01 Jan 2023,2023-01-10,9,10232.85,Uninsured
+590,P1288,  David Martinez  ,77.0,F,Pediatrics,Chickenpox,12-06-2023,2023-12-16,10,8290.78,HMO
+591,P1519,  Sarah Jackson  ,27.0,Male,General Medicine,Hypertension,10-12-2023,2023-10-14,2,2835.36,Medicare
+592,P1501,barbara anderson,19.0,f,Neurology,Epilepsy,05/10/2024,2024-10-09,4,344.56,Medicare
+593,P1316,Joseph Anderson,27.0,F,Emergency,Trauma,24/05/2024,2024-05-26,2,13874.9,HMO
+594,P2053,  Patricia Moore  ,48.0,M,Pediatrics,Chickenpox,24 Oct 2023,2023-11-03,10,9312.56,HMO
+595,P1384,JOHN RODRIGUEZ,48.0,F,Pediatrics,Asthma,2024-08-24,2024-08-30,6,4486.82,Medicaid
+596,P1360,SUSAN WHITE,35.0,m,Cardiology,Coronary Artery Disease,09 Jun 2024,2024-06-12,3,12958.03,Medicaid
+597,P1289,  Charles Martinez  ,,Female,Pediatrics,Ear Infection,02-22-2023,2023-02-27,5,1162.67,Medicare
+598,P1884,  Joseph Williams  ,26.0,Male,Orthopedics,Fracture,01-20-2023,2023-01-22,2,9094.28,PPO
+599,P1972,ROBERT BROWN,18.0,F,Oncology,Lung Cancer,02 Sep 2023,2023-09-03,1,7078.8,HMO
+600,P1012,linda rodriguez,48.0,F,Orthopedics,Joint Replacement,16/12/2023,2023-12-26,10,2078.74,Uninsured
+601,P1075,william thomas,19.0,Male,General Medicine,Pneumonia,06-02-2024,2024-06-08,6,11925.77,Medicaid
+602,P1193,PATRICIA DAVIS,90.0,Female,Emergency,Appendicitis,08-29-2024,2024-08-31,2,3722.83,Medicare
+603,P1177,jessica miller,88.0,f,Emergency,Trauma,04-19-2023,2023-04-25,6,1590.4,Medicaid
+604,P1913,  James Martin  ,33.0,m,Orthopedics,Joint Replacement,2023-02-09,2023-02-17,8,8439.55,Medicare
+605,P1071,robert davis,50.0,f,Emergency,Trauma,01 Jan 2023,2023-01-02,1,1131.27,Medicare
+606,P1790,Karen Jackson,68.0,m,Cardiology,Heart Failure,07/03/2024,2024-03-11,4,10587.68,HMO
+607,P1175,joseph miller,92.0,M,Oncology,Leukemia,2023-04-08,2023-04-17,9,13937.77,Uninsured
+608,P1766,JENNIFER WILLIAMS,24.0,Male,Emergency,Appendicitis,2024-11-02,2024-11-11,9,10397.6,HMO
+609,P1845,WILLIAM BROWN,36.0,Male,Pediatrics,Chickenpox,28 Mar 2024,2024-04-04,7,8133.18,Uninsured
+610,P1440,MICHAEL GARCIA,94.0,m,Oncology,Breast Cancer,25/12/2023,2023-12-26,1,10873.38,Medicare
+611,P2112,Elizabeth Johnson,2.0,F,Neurology,Epilepsy,2024-11-23,2024-11-25,2,3329.72,PPO
+612,P2128,  Linda Smith  ,93.0,,Neurology,Epilepsy,16 Aug 2024,2024-08-24,8,9988.05,PPO
+613,P1948,David Rodriguez,62.0,Female,Orthopedics,Joint Replacement,04/09/2024,2024-09-08,4,8637.3,PPO
+614,P1185,Elizabeth Brown,89.0,Male,Orthopedics,Osteoarthritis,27 Nov 2023,2023-12-06,9,820.1,Medicare
+615,P1387,Patricia Williams,4.0,m,Orthopedics,Sprain,2023-08-01,2023-08-09,8,12205.7,Uninsured
+616,P1700,CHARLES SMITH,49.0,F,Orthopedics,Osteoarthritis,23 Dec 2023,2024-01-01,9,10563.31,Uninsured
+617,P1021,Susan Wilson,64.0,M,Emergency,Appendicitis,01-07-2023,2023-01-12,5,13744.14,PPO
+618,P1823,charles anderson,17.0,f,Emergency,Appendicitis,19/12/2023,2023-12-25,6,2814.8,Uninsured
+619,P1882,  Jessica Wilson  ,79.0,Female,Emergency,Burns,12-22-2023,2023-12-27,5,11658.46,
+620,P2102,  James Garcia  ,61.0,f,Orthopedics,Osteoarthritis,04-20-2023,2023-04-23,3,1811.21,Uninsured
+621,P2135,  Karen Garcia  ,85.0,Male,Cardiology,Coronary Artery Disease,2024-08-23,2024-08-25,2,2122.39,Uninsured
+622,P1556,CHARLES BROWN,16.0,M,General Medicine,Anemia,2024-06-12,2024-06-22,10,10176.89,PPO
+623,P1179,KAREN RODRIGUEZ,57.0,M,Neurology,Stroke,11-13-2023,2023-11-16,3,1714.71,HMO
+624,P1176,ELIZABETH MILLER,22.0,m,Cardiology,Hypertension,11-18-2024,2024-11-28,10,14110.59,Uninsured
+625,P1733,Barbara Garcia,87.0,M,General Medicine,Pneumonia,13/03/2023,2023-03-21,8,5167.4,Uninsured
+626,P1138,Susan White,89.0,M,Orthopedics,Osteoarthritis,22 Jun 2023,2023-07-02,10,8774.21,Medicaid
+627,P1559,LINDA MILLER,5.0,m,Neurology,Epilepsy,2023-10-02,2023-10-09,7,11971.93,Medicaid
+628,P1152,Thomas Anderson,75.0,Male,Orthopedics,Sprain,24 Nov 2023,2023-12-02,8,10311.42,PPO
+629,P1381,JAMES THOMAS,38.0,Male,Oncology,Lymphoma,12/10/2023,2023-10-18,6,9086.91,Medicaid
+630,P1526,William Wilson,11.0,Male,Orthopedics,Sprain,03 Jul 2023,2023-07-13,10,6119.71,Medicare
+631,P1830,THOMAS ANDERSON,50.0,f,Emergency,Burns,04-26-2024,2024-05-06,10,7321.4,Medicaid
+632,P1660,joseph moore,32.0,F,Neurology,Migraine,01/11/2023,2023-11-02,1,10944.94,HMO
+633,P1671,JAMES JOHNSON,10.0,Male,Pediatrics,Flu,20/05/2024,2024-05-26,6,376.91,PPO
+634,P1222,MARY THOMAS,51.0,m,Cardiology,Coronary Artery Disease,26 Jan 2024,2024-02-01,6,10360.61,Medicaid
+635,P1411,  David Lee  ,63.0,F,Neurology,,30 Aug 2024,2024-09-02,3,12245.85,PPO
+636,P1072,PATRICIA MILLER,58.0,,General Medicine,Anemia,22/05/2024,2024-05-27,5,1042.48,Medicaid
+637,P1020,David Rodriguez,94.0,f,Pediatrics,Flu,11-19-2023,2023-11-23,4,6978.16,Medicaid
+638,P1278,sarah brown,18.0,f,Orthopedics,Sprain,2023-12-23,2023-12-29,6,11282.26,Medicare
+639,P1289,  Charles Martinez  ,42.0,Female,Pediatrics,Ear Infection,02-22-2023,2023-02-27,5,1162.67,Medicare
+640,P1467,Charles Smith,4.0,Male,Cardiology,Hypertension,02 Mar 2024,2024-03-12,10,13421.68,HMO
+641,P2029,JOSEPH JACKSON,43.0,m,Orthopedics,Osteoarthritis,01-04-2023,2023-01-15,11,10326.54,PPO
+642,P2098,David Wilson,83.0,Male,Oncology,Leukemia,22 Nov 2023,2023-11-26,4,11418.3,Medicare
+643,P2170,Jennifer Davis,47.0,Female,Pediatrics,Asthma,25/05/2024,2024-06-04,10,7876.93,Medicare
+644,P1037,CHARLES PEREZ,28.0,M,Pediatrics,Ear Infection,2023-01-24,2023-02-03,10,1241.21,HMO
+645,P1799,Susan Martin,82.0,f,Cardiology,Hypertension,06 Oct 2023,2023-10-14,8,2095.76,HMO
+646,P1367,james wilson,90.0,Female,Cardiology,Heart Failure,02 Jan 2024,2024-01-06,4,13159.21,PPO
+647,P1095,ROBERT WHITE,11.0,M,General Medicine,Anemia,23 Nov 2024,2024-11-26,3,3393.7,PPO
+648,P2078,David Miller,61.0,M,Oncology,Leukemia,05/07/2024,2024-07-10,5,2237.32,Medicaid
+649,P1584,charles wilson,29.0,F,Oncology,Lymphoma,2023-09-11,2023-09-15,4,8193.88,PPO
+650,P2195,Thomas Miller,75.0,m,Pediatrics,Asthma,28 Nov 2024,2024-11-29,1,7874.99,Uninsured
+651,P1874,CHARLES SMITH,92.0,F,Cardiology,Arrhythmia,16/01/2023,2023-01-24,8,7201.66,Medicare
+652,P1741,MICHAEL BROWN,74.0,F,Emergency,Trauma,07/09/2023,2023-09-14,7,12936.75,Uninsured
+653,P1678,william garcia,51.0,Female,Oncology,Leukemia,03-31-2023,2023-04-04,4,8432.57,PPO
+654,P1931,linda garcia,56.0,Male,Pediatrics,,2024-04-03,2024-04-09,6,13718.9,Medicaid
+655,P1736,JOSEPH GARCIA,71.0,m,Emergency,Appendicitis,09-30-2024,2024-10-08,8,9111.71,PPO
+656,P1655,  Barbara Taylor  ,93.0,m,Neurology,Stroke,23/03/2023,2023-03-29,6,14408.31,Medicare
+657,P1422,WILLIAM GARCIA,72.0,Female,Neurology,Migraine,2023-09-07,2023-09-16,9,5380.97,PPO
+658,P1593,CHARLES WILLIAMS,58.0,m,Oncology,Leukemia,23 Mar 2023,2023-03-27,4,9795.13,PPO
+659,P1888,MICHAEL MILLER,21.0,f,Pediatrics,Asthma,30 Jan 2024,2024-02-01,2,12997.74,HMO
+660,P1625,Elizabeth Davis,69.0,f,Pediatrics,Chickenpox,11-22-2023,2023-12-03,11,10601.87,
+661,P1321,THOMAS MILLER,66.0,Female,Emergency,Burns,01-18-2024,2024-01-25,7,1087.68,Medicare
+662,P1064,jennifer taylor,62.0,m,Oncology,Lung Cancer,2023-09-29,2023-10-10,11,1747.66,PPO
+663,P2059,KAREN DAVIS,30.0,f,Orthopedics,Joint Replacement,10-24-2024,2024-10-30,6,6847.13,PPO
+664,P1198,mary martin,44.0,M,Emergency,Appendicitis,2024-09-23,2024-09-28,5,10404.84,Medicaid
+665,P1535,ELIZABETH MARTINEZ,87.0,f,Pediatrics,Asthma,05-23-2023,2023-05-29,6,11155.23,Medicaid
+666,P1717,  Michael Wilson  ,84.0,Male,General Medicine,Anemia,2023-03-24,2023-03-26,2,7569.36,PPO
+667,P1139,Thomas Martinez,2.0,m,General Medicine,Pneumonia,30 Jan 2024,2024-01-31,1,8818.33,Medicaid
+668,P1986,  Linda White  ,29.0,M,Neurology,Migraine,29/09/2023,2023-10-06,7,1474.92,HMO
+669,P1124,JAMES SMITH,14.0,Male,Orthopedics,Joint Replacement,15/09/2023,2023-09-21,6,3198.98,Uninsured
+670,P1992,jessica williams,39.0,Female,Orthopedics,Sprain,25/09/2024,2024-09-29,4,3129.14,
+671,P1266,  Sarah Moore  ,36.0,M,Cardiology,Coronary Artery Disease,03 Aug 2024,2024-08-06,3,11831.11,PPO
+672,P1896,  Joseph Brown  ,30.0,F,Emergency,Appendicitis,09-16-2023,2023-09-24,8,10188.52,PPO
+673,P1374,richard davis,,Female,Orthopedics,Sprain,02-28-2024,2024-03-10,11,14149.08,PPO
+674,P1236,BARBARA PEREZ,80.0,M,Pediatrics,,16 Apr 2024,2024-04-26,10,946.7,Medicaid
+675,P2120,  Linda Miller  ,80.0,M,Oncology,Leukemia,08-09-2023,2023-08-12,3,12052.75,Medicaid
+676,P1658,PATRICIA LEE,28.0,M,Oncology,Leukemia,2024-08-05,2024-08-15,10,3264.71,Medicare
+677,P1455,Mary Taylor,31.0,Female,Pediatrics,Asthma,27/04/2024,2024-04-28,1,3980.4,PPO
+678,P1721,Robert Martinez,25.0,m,Oncology,Lymphoma,2024-04-10,2024-04-21,11,8572.12,Uninsured
+679,P2015,DAVID WILLIAMS,,Male,Emergency,Trauma,2024-06-29,2024-06-30,1,7760.77,HMO
+680,P1601,RICHARD TAYLOR,9.0,Male,Cardiology,Hypertension,05-12-2024,2024-05-19,7,2321.78,PPO
+681,P1577,Robert Martin,66.0,F,Neurology,Parkinson's Disease,08/07/2024,2024-07-11,3,5234.74,Medicaid
+682,P1864,Joseph White,74.0,Female,Cardiology,Hypertension,2024-07-28,2024-08-04,7,4035.11,Medicare
+683,P1747,Barbara Perez,69.0,Female,Oncology,Lymphoma,11 Apr 2023,2023-04-13,2,3046.27,PPO
+684,P1561,MICHAEL GARCIA,65.0,M,Oncology,Breast Cancer,2024-11-06,2024-11-13,7,6423.8,Medicaid
+685,P1043,THOMAS MILLER,65.0,m,Cardiology,Coronary Artery Disease,16 Oct 2024,2024-10-25,9,13179.29,HMO
+686,P1174,Susan Smith,73.0,Male,General Medicine,Diabetes,2024-10-25,2024-10-28,3,9525.22,PPO
+687,P1108,Robert Anderson,,f,Neurology,,2023-05-15,2023-05-16,1,6761.7,Medicare
+688,P1253,richard martin,48.0,F,Orthopedics,Joint Replacement,07/01/2023,2023-01-13,6,12020.84,Uninsured
+689,P2051,Patricia Brown,9.0,M,Pediatrics,Chickenpox,08/03/2024,2024-03-10,2,13786.71,Medicaid
+690,P1051,  Linda Moore  ,24.0,Male,Oncology,Leukemia,12/06/2023,2023-06-22,10,11715.39,Medicaid
+691,P1234,MICHAEL JONES,50.0,f,Emergency,Appendicitis,2024-03-14,2024-03-15,1,1397.64,HMO
+692,P1269,ELIZABETH TAYLOR,,Female,Oncology,Breast Cancer,01-31-2023,2023-02-05,5,629.31,Medicare
+693,P1403,PATRICIA MOORE,37.0,M,Neurology,Parkinson's Disease,06 Sep 2024,2024-09-12,6,3546.76,Medicare
+694,P2075,  Sarah Lee  ,27.0,F,Emergency,Trauma,2023-08-26,2023-08-30,4,6586.02,PPO
+695,P1549,ELIZABETH THOMAS,11.0,Male,General Medicine,Pneumonia,2023-07-30,2023-08-04,5,4897.21,Medicaid
+696,P1398,David White,5.0,F,Neurology,Migraine,2023-12-16,2023-12-21,5,11810.78,Medicaid
+697,P1274,WILLIAM WILLIAMS,32.0,F,General Medicine,Pneumonia,21 Jul 2023,2023-07-26,5,1989.34,Medicare
+698,P2028,Richard Anderson,39.0,m,Neurology,Stroke,2024-09-24,2024-10-02,8,7860.84,Medicaid
+699,P1498,susan thomas,70.0,F,Orthopedics,Fracture,01-04-2024,2024-01-13,9,12056.97,Medicare
+700,P1965,LINDA PEREZ,88.0,f,Pediatrics,Flu,2023-10-12,2023-10-15,3,8178.27,PPO
+701,P2161,john johnson,69.0,m,Neurology,Stroke,26/10/2023,2023-11-05,10,,HMO
+702,P2010,ROBERT BROWN,10.0,M,General Medicine,Anemia,29 Apr 2023,2023-05-02,3,11306.99,Medicaid
+703,P2167,WILLIAM WILLIAMS,74.0,m,Emergency,Poisoning,06 May 2023,2023-05-17,11,14734.63,PPO
+704,P1415,JENNIFER WILLIAMS,48.0,F,Pediatrics,Asthma,27/04/2024,2024-05-03,6,3801.06,Medicare
+705,P1483,Richard Jackson,55.0,m,Neurology,Migraine,01-30-2024,2024-01-31,1,4737.01,Uninsured
+706,P1564,Jessica Lee,94.0,M,Orthopedics,Sprain,04-20-2024,2024-04-26,6,5294.37,Medicare
+707,P2177,jessica miller,19.0,M,Cardiology,Coronary Artery Disease,2023-04-07,2023-04-13,6,783.64,Medicaid
+708,P1924,THOMAS DAVIS,39.0,Male,Orthopedics,Osteoarthritis,04/02/2023,2023-02-15,11,12538.03,Medicare
+709,P1366,RICHARD PEREZ,59.0,m,Neurology,Parkinson's Disease,19/11/2023,2023-11-25,6,8763.07,Uninsured
+710,P1525,DAVID SMITH,85.0,Female,Cardiology,Coronary Artery Disease,08 Apr 2023,2023-04-16,8,7346.85,HMO
+711,P1303,  Charles Jones  ,69.0,Female,Emergency,Trauma,07-29-2023,2023-07-30,1,12246.01,Medicare
+712,P2148,Patricia Rodriguez,77.0,Female,General Medicine,Diabetes,2023-08-25,2023-08-30,5,1086.33,PPO
+713,P1340,barbara perez,75.0,Male,Cardiology,Arrhythmia,05/10/2024,2024-10-12,7,3009.67,Uninsured
+714,P1579,john perez,30.0,m,Orthopedics,Fracture,09 Feb 2023,2023-02-18,9,,PPO
+715,P1039,SUSAN GARCIA,86.0,M,Emergency,Appendicitis,24/11/2023,2023-11-25,1,7917.86,PPO
+716,P1609,  James Johnson  ,-1.0,f,Cardiology,Heart Failure,2023-10-17,2023-10-20,3,14278.29,PPO
+717,P1380,  Barbara Moore  ,66.0,F,Neurology,Parkinson's Disease,13/09/2023,2023-09-16,3,10720.36,Uninsured
+718,P1491,Jennifer Thomas,35.0,Male,Neurology,Epilepsy,27/04/2023,2023-05-08,11,,Uninsured
+719,P1636,  Charles Brown  ,41.0,M,Neurology,Epilepsy,2024-11-11,2024-11-13,2,2758.46,Medicaid
+720,P1998,WILLIAM SMITH,73.0,f,General Medicine,Pneumonia,2023-11-07,2023-11-13,6,7549.37,Uninsured
+721,P1049,ROBERT PEREZ,35.0,Male,Orthopedics,Sprain,08-13-2023,2023-08-23,10,13024.28,Medicare
+722,P1777,David Jones,78.0,Male,Cardiology,Heart Failure,26 Sep 2024,2024-09-29,3,3087.41,Medicare
+723,P1959,  James Rodriguez  ,47.0,M,Cardiology,Hypertension,2023-06-08,2023-06-16,8,14158.94,HMO
+724,P1748,sarah perez,37.0,m,Neurology,Stroke,06 Jan 2023,2023-01-17,11,3383.4,Medicaid
+725,P1682,James Martinez,76.0,M,Neurology,Epilepsy,30 Apr 2024,2024-05-01,1,13687.43,Medicare
+726,P1528,michael martin,1.0,M,General Medicine,Hypertension,2024-09-24,2024-09-25,1,3117.35,Medicare
+727,P1648,Mary Jones,34.0,f,Cardiology,Arrhythmia,23/01/2023,2023-01-25,2,14818.01,Uninsured
+728,P1397,susan white,45.0,Male,Orthopedics,Sprain,08 Feb 2024,2024-02-14,6,13475.94,Uninsured
+729,P1074,elizabeth martin,69.0,Male,Neurology,Stroke,19 Dec 2023,2023-12-27,8,2280.3,Medicaid
+730,P1251,robert smith,83.0,Male,General Medicine,Anemia,2023-10-02,2023-10-12,10,12535.79,HMO
+731,P1628,Thomas Martin,13.0,m,Pediatrics,Flu,05 Nov 2023,2023-11-12,7,8815.02,PPO
+732,P1191,Elizabeth Taylor,84.0,f,Oncology,Leukemia,2023-05-11,2023-05-18,7,2149.42,HMO
+733,P1263,charles anderson,93.0,Female,Oncology,Lymphoma,10-26-2023,2023-10-27,1,9813.66,Medicare
+734,P1014,  Susan Davis  ,62.0,Female,Orthopedics,Joint Replacement,04/02/2024,2024-02-14,10,14775.54,HMO
+735,P2184,SUSAN MARTIN,5.0,Male,Emergency,Poisoning,2023-12-20,2023-12-24,4,7570.54,Medicaid
+736,P2119,JENNIFER MARTINEZ,75.0,Female,Neurology,Parkinson's Disease,2024-08-17,2024-08-18,1,9047.62,PPO
+737,P1770,patricia smith,31.0,m,Oncology,Breast Cancer,29 Jun 2024,2024-07-02,3,9575.17,Medicaid
+738,P1904,Jessica Martin,29.0,F,Pediatrics,Chickenpox,11/09/2023,2023-09-20,9,11734.19,HMO
+739,P1785,jennifer davis,8.0,m,Orthopedics,Joint Replacement,11-03-2023,2023-11-11,8,1560.89,HMO
+740,P2122,JENNIFER JOHNSON,47.0,Female,Orthopedics,Sprain,2024-04-21,2024-04-26,5,557.87,HMO
+741,P1783,  Robert Thomas  ,,Female,Oncology,Breast Cancer,16 Jun 2024,2024-06-23,7,12818.07,Uninsured
+742,P1688,  David Davis  ,3.0,Male,Emergency,Trauma,04-10-2024,2024-04-21,11,,Medicare
+743,P1309,  Richard Lee  ,26.0,f,Emergency,Trauma,12-03-2023,2023-12-11,8,5681.4,PPO
+744,P2024,Linda Miller,88.0,f,General Medicine,Anemia,08-29-2024,2024-09-03,5,14040.04,Medicare
+745,P1760,Jennifer Thomas,76.0,F,Orthopedics,Joint Replacement,21 Jan 2023,2023-01-27,6,2259.11,Medicare
+746,P1858,Elizabeth Brown,32.0,f,Oncology,Leukemia,2023-02-25,2023-03-01,4,7975.7,
+747,P1651,michael rodriguez,58.0,Male,Orthopedics,Osteoarthritis,02-06-2024,2024-02-13,7,7966.17,Medicaid
+748,P1580,elizabeth smith,-1.0,f,Cardiology,Coronary Artery Disease,03 Jul 2024,2024-07-13,10,5538.92,Medicare
+749,P1576,susan williams,74.0,f,Oncology,Lymphoma,09-30-2024,2024-10-03,3,14531.82,PPO
+750,P1878,James Perez,7.0,M,Oncology,Lung Cancer,15 Jul 2024,2024-07-23,8,13147.49,Medicaid
+751,P1915,robert white,78.0,m,Orthopedics,Osteoarthritis,14 Jun 2024,2024-06-15,1,6629.55,Medicare
+752,P1186,  William Martinez  ,62.0,Male,Cardiology,Hypertension,01-01-2023,2023-01-12,11,2919.95,Uninsured
+753,P1085,  Joseph Davis  ,65.0,Male,Pediatrics,Chickenpox,04 Apr 2023,2023-04-13,9,13315.73,Medicare
+754,P1148,  Mary Jones  ,57.0,Female,Orthopedics,Joint Replacement,23 Nov 2023,2023-12-03,10,14235.46,HMO
+755,P2143,  Elizabeth Jones  ,36.0,m,Emergency,Appendicitis,2023-11-28,2023-12-03,5,5356.06,Uninsured
+756,P1744,  Elizabeth Rodriguez  ,86.0,F,Oncology,Lymphoma,2024-10-06,2024-10-10,4,2017.24,Medicaid
+757,P2191,  Jennifer Jackson  ,84.0,m,Emergency,Burns,02-10-2023,2023-02-12,2,5177.78,HMO
+758,P1362,SARAH LEE,31.0,m,Neurology,Migraine,24 May 2023,2023-05-25,1,737.66,Medicare
+759,P1805,  Susan Thomas  ,31.0,f,Neurology,Migraine,03-30-2024,2024-04-05,6,2086.07,HMO
+760,P1768,JAMES LEE,70.0,f,Pediatrics,Flu,08/12/2023,2023-12-19,11,3135.65,Medicaid
+761,P1407,Sarah Jones,74.0,F,Emergency,Poisoning,01/05/2023,2023-05-05,4,10164.11,Uninsured
+762,P1652,joseph garcia,64.0,Female,Orthopedics,Joint Replacement,24 Sep 2024,2024-09-26,2,3718.66,Uninsured
+763,P1587,  Charles Rodriguez  ,44.0,Male,General Medicine,Pneumonia,2024-08-07,2024-08-12,5,10753.45,Medicare
+764,P1679,  Robert White  ,61.0,Male,Orthopedics,Sprain,15/03/2023,2023-03-17,2,13425.97,HMO
+765,P1488,THOMAS LEE,89.0,f,Oncology,Lymphoma,2024-09-03,2024-09-05,2,9355.41,PPO
+766,P1969,SUSAN DAVIS,44.0,Male,Orthopedics,Sprain,16/07/2023,2023-07-25,9,4193.95,Uninsured
+767,P1217,susan davis,20.0,m,Pediatrics,Asthma,02-16-2023,2023-02-19,3,6401.7,HMO
+768,P2106,Barbara Wilson,16.0,F,Oncology,Lung Cancer,2024-11-03,2024-11-05,2,13760.47,
+769,P1885,John Taylor,56.0,Female,Oncology,Leukemia,26 Jul 2024,2024-08-01,6,13449.5,Medicare
+770,P1156,michael jones,69.0,M,Orthopedics,Osteoarthritis,2023-05-24,2023-05-31,7,8285.98,Medicare
+771,P1614,JOHN JACKSON,54.0,M,Neurology,Stroke,07-19-2023,2023-07-22,3,3588.92,
+772,P1862,  Jennifer Wilson  ,2.0,M,General Medicine,Diabetes,26/11/2024,2024-11-29,3,9554.99,Uninsured
+773,P1298,sarah taylor,66.0,m,Orthopedics,Sprain,27 Jul 2023,2023-08-03,7,13932.33,Uninsured
+774,P2129,Thomas Perez,39.0,f,Pediatrics,Flu,03-24-2023,2023-03-28,4,12576.81,Medicaid
+775,P1825,SUSAN PEREZ,45.0,m,Oncology,Leukemia,12-12-2023,2023-12-19,7,14010.46,Medicare
+776,P2018,thomas wilson,80.0,,General Medicine,Diabetes,2023-08-22,2023-08-26,4,5048.17,HMO
+777,P1873,Thomas Garcia,15.0,M,General Medicine,Anemia,03-10-2024,2024-03-15,5,5301.9,Medicare
+778,P1318,Jennifer Martinez,84.0,f,Pediatrics,Chickenpox,06-28-2024,2024-07-02,4,5964.38,Medicaid
+779,P1428,Elizabeth Perez,9.0,F,Neurology,Epilepsy,11-07-2024,2024-11-15,8,6591.05,Uninsured
+780,P1570,Michael Smith,85.0,m,Cardiology,Hypertension,10-13-2023,2023-10-15,2,2994.23,HMO
+781,P1277,Richard Jackson,89.0,F,Emergency,Burns,05-19-2024,2024-05-26,7,9372.87,Uninsured
+782,P1068,patricia perez,87.0,Female,Cardiology,Hypertension,15 Jul 2023,2023-07-16,1,2431.48,Medicaid
+783,P1820,CHARLES THOMAS,66.0,m,Pediatrics,Ear Infection,05-09-2024,2024-05-15,6,6427.82,PPO
+784,P1731,David Taylor,,Female,Orthopedics,Joint Replacement,08-05-2023,2023-08-12,7,13866.34,Medicare
+785,P1027,  Mary Smith  ,,Female,Pediatrics,Ear Infection,03/10/2024,2024-10-11,8,8518.67,HMO
+786,P1115,Jessica Perez,72.0,M,General Medicine,Hypertension,02-03-2023,2023-02-14,11,706.82,PPO
+787,P1663,michael lee,55.0,f,Emergency,Appendicitis,2023-04-08,2023-04-09,1,6891.85,Medicare
+788,P1984,Linda Moore,18.0,Male,Oncology,Lung Cancer,07-28-2024,2024-08-05,8,12324.32,Medicare
+789,P1204,Susan Brown,28.0,m,Orthopedics,Joint Replacement,02-07-2023,2023-02-15,8,13492.05,Medicaid
+790,P2085,WILLIAM MILLER,75.0,F,Neurology,Stroke,2023-09-26,2023-10-05,9,4086.95,HMO
+791,P1546,susan johnson,41.0,m,Orthopedics,Sprain,2023-08-14,2023-08-15,1,1722.33,Uninsured
+792,P1161,James Jackson,23.0,M,Neurology,Stroke,2024-09-04,2024-09-15,11,10425.83,HMO
+793,P1350,charles moore,25.0,Male,Oncology,Leukemia,10/10/2023,2023-10-14,4,13446.71,Medicare
+794,P1216,  Barbara Anderson  ,7.0,F,Neurology,Epilepsy,25 Sep 2024,2024-10-03,8,2641.37,PPO
+795,P1104,  Elizabeth Jackson  ,32.0,F,Cardiology,Arrhythmia,2023-12-26,2023-12-29,3,6649.25,Medicaid
+796,P1106,richard martin,86.0,Male,Oncology,Breast Cancer,04-23-2024,2024-05-04,11,,HMO
+797,P1911,joseph garcia,39.0,f,General Medicine,Diabetes,30 May 2024,2024-06-07,8,7253.68,PPO
+798,P1808,Sarah Williams,51.0,M,General Medicine,Anemia,24 Oct 2023,2023-10-27,3,6384.37,Medicare
+799,P1119,RICHARD JOHNSON,72.0,m,Orthopedics,Joint Replacement,29/02/2024,2024-03-10,10,7868.52,Uninsured
+800,P2020,mary thomas,73.0,Female,Cardiology,Heart Failure,17 Dec 2023,2023-12-23,6,7713.12,HMO
+801,P1330,richard lee,77.0,Male,Oncology,Breast Cancer,26/02/2024,2024-03-02,5,13797.44,Uninsured
+802,P1594,  Thomas Johnson  ,47.0,Male,Pediatrics,Chickenpox,2024-10-14,2024-10-16,2,13788.78,HMO
+803,P1094,THOMAS BROWN,46.0,F,Cardiology,Hypertension,07 Apr 2023,2023-04-10,3,12275.31,PPO
+804,P1514,JAMES MOORE,7.0,Female,Orthopedics,Fracture,11-25-2023,2023-11-30,5,12853.38,Medicare
+805,P1029,  Jennifer Smith  ,37.0,Male,Pediatrics,Asthma,10 May 2024,2024-05-16,6,2586.1,PPO
+806,P1191,Elizabeth Taylor,84.0,f,Oncology,Leukemia,2023-05-11,2023-05-18,7,2149.42,HMO
+807,P1388,linda garcia,9.0,,Neurology,Epilepsy,09-02-2023,2023-09-10,8,14611.99,HMO
+808,P1332,  Jessica Jones  ,53.0,M,Pediatrics,Chickenpox,19/10/2023,2023-10-28,9,6811.67,Medicaid
+809,P1293,  Elizabeth Brown  ,92.0,f,Orthopedics,Fracture,26/05/2023,2023-05-31,5,6305.86,Medicaid
+810,P1975,  Sarah Brown  ,13.0,Male,General Medicine,Anemia,2023-05-16,2023-05-22,6,9388.8,HMO
+811,P1531,michael perez,78.0,m,Pediatrics,Ear Infection,07/09/2024,2024-09-18,11,11152.81,Medicaid
+812,P1869,  Charles Taylor  ,31.0,M,Orthopedics,Sprain,14 Sep 2023,2023-09-19,5,11655.54,Medicare
+813,P1735,elizabeth jackson,14.0,F,Neurology,Parkinson's Disease,18/02/2023,2023-02-25,7,3300.29,Uninsured
+814,P1084,sarah davis,17.0,M,Cardiology,Arrhythmia,2024-04-24,2024-04-26,2,14935.3,Medicare
+815,P1605,  Richard Wilson  ,55.0,F,Emergency,Burns,20/04/2024,2024-04-26,6,,PPO
+816,P1475,Barbara Davis,30.0,M,Oncology,Leukemia,07-09-2023,2023-07-11,2,12503.63,Uninsured
+817,P1547,  Patricia Johnson  ,18.0,Male,Orthopedics,,19/04/2023,2023-04-30,11,13257.62,
+818,P1751,THOMAS MARTIN,37.0,Male,Pediatrics,Chickenpox,2024-09-07,2024-09-11,4,2584.42,HMO
+819,P1461,JAMES JACKSON,73.0,f,Orthopedics,Osteoarthritis,28 Dec 2023,2024-01-03,6,12512.24,PPO
+820,P1096,  Barbara Garcia  ,24.0,M,Neurology,Migraine,08/06/2024,2024-06-16,8,10272.29,Medicare
+821,P1213,  Richard Martin  ,93.0,m,Emergency,Burns,02 Jun 2023,2023-06-12,10,,Medicare
+822,P2134,patricia anderson,73.0,M,Neurology,Migraine,2023-04-16,2023-04-27,11,4965.47,PPO
+823,P1429,james lee,24.0,M,Neurology,,2024-08-25,2024-08-30,5,4923.16,PPO
+824,P1834,Charles Taylor,58.0,M,Cardiology,Heart Failure,08/02/2024,2024-02-12,4,5031.59,PPO
+825,P1016,james white,-1.0,m,Pediatrics,Chickenpox,09-22-2023,2023-09-26,4,1961.3,Medicaid
+826,P2189,Richard Lee,86.0,F,Emergency,Poisoning,2024-04-16,2024-04-18,2,9010.17,PPO
+827,P1588,DAVID RODRIGUEZ,87.0,f,Pediatrics,Flu,10/12/2023,2023-12-17,7,3519.53,Uninsured
+828,P1172,charles smith,86.0,f,General Medicine,Anemia,11-19-2023,2023-11-24,5,,Medicare
+829,P1956,Barbara Moore,52.0,m,Pediatrics,Asthma,10/01/2024,2024-01-19,9,7023.42,Uninsured
+830,P1024,PATRICIA DAVIS,-1.0,Male,Pediatrics,Chickenpox,10-06-2023,2023-10-07,1,3299.58,Medicaid
+831,P2039,Mary Smith,82.0,F,Oncology,Lymphoma,08-26-2024,2024-08-27,1,3287.79,Medicare
+832,P1425,  Karen Garcia  ,16.0,F,Pediatrics,Flu,30/06/2023,2023-07-10,10,4882.61,Uninsured
+833,P1941,James Davis,51.0,Female,Emergency,Burns,12/08/2023,2023-08-13,1,11215.3,Medicaid
+834,P1880,JENNIFER LEE,84.0,m,General Medicine,Diabetes,25/12/2023,2023-12-30,5,7972.54,HMO
+835,P1846,  Elizabeth Rodriguez  ,35.0,f,Neurology,Migraine,08-20-2023,2023-08-25,5,8923.32,Medicaid
+836,P1466,JOSEPH BROWN,38.0,m,Cardiology,Hypertension,23/09/2024,2024-09-26,3,3771.4,Medicare
+837,P1157,James Jones,90.0,m,Cardiology,Arrhythmia,2024-05-10,2024-05-21,11,1105.37,PPO
+838,P1168,thomas johnson,4.0,F,Neurology,Migraine,2024-01-29,2024-02-08,10,11560.4,Medicaid
+839,P1421,JOHN MILLER,40.0,M,Oncology,Breast Cancer,20/01/2023,2023-01-28,8,14207.45,HMO
+840,P1730,  Elizabeth Miller  ,74.0,Male,Oncology,Leukemia,03-15-2024,2024-03-23,8,7647.68,Uninsured
+841,P1826,Joseph Jackson,82.0,Male,General Medicine,Pneumonia,06-27-2023,2023-07-05,8,9380.77,Medicare
+842,P1489,  William Wilson  ,70.0,M,Orthopedics,Sprain,12-31-2023,2024-01-02,2,4680.85,HMO
+843,P1271,  Sarah Jones  ,85.0,Male,Cardiology,Hypertension,09 Aug 2023,2023-08-14,5,8903.46,Medicare
+844,P2079,Linda Lee,26.0,M,Oncology,Lymphoma,2024-02-16,2024-02-22,6,8689.43,Medicaid
+845,P2176,mary martinez,92.0,M,Neurology,Migraine,2024-10-15,2024-10-25,10,6944.88,Uninsured
+846,P1468,  Charles Martinez  ,,F,Pediatrics,Ear Infection,08 Feb 2023,2023-02-13,5,13324.21,Uninsured
+847,P1840,william williams,44.0,f,General Medicine,Diabetes,05-16-2023,2023-05-25,9,5647.17,
+848,P2043,  Jessica Moore  ,39.0,f,General Medicine,Hypertension,20 Sep 2024,2024-09-27,7,9963.98,Uninsured
+849,P1822,mary wilson,76.0,M,Neurology,Stroke,19/08/2024,2024-08-24,5,14852.79,Medicare
+850,P1337,karen perez,81.0,Male,Cardiology,Hypertension,02-11-2023,2023-02-12,1,12581.19,Medicaid
+851,P1077,  Jessica Williams  ,39.0,f,Cardiology,Arrhythmia,09/12/2023,2023-12-14,5,2571.13,PPO
+852,P2179,  Karen Martin  ,8.0,Male,General Medicine,Diabetes,11 Dec 2023,2023-12-19,8,11532.33,Medicaid
+853,P1797,Patricia Martin,35.0,f,Orthopedics,Fracture,09-11-2023,2023-09-12,1,1707.18,Uninsured
+854,P1850,Mary Wilson,38.0,F,Oncology,Lung Cancer,06-16-2024,2024-06-22,6,10184.58,HMO
+855,P1239,Michael Martinez,42.0,Female,Orthopedics,Osteoarthritis,2023-10-16,2023-10-21,5,8013.6,Medicaid
+856,P1902,JOSEPH LEE,20.0,m,Cardiology,Coronary Artery Disease,28 Jan 2024,2024-02-06,9,1511.37,HMO
+857,P1849,joseph taylor,21.0,Male,Oncology,Breast Cancer,02/10/2024,2024-10-03,1,8357.26,PPO
+858,P1750,  Elizabeth Rodriguez  ,68.0,f,Orthopedics,Osteoarthritis,02 Jan 2024,2024-01-10,8,11970.64,Medicaid
+859,P1076,David White,50.0,f,Oncology,Leukemia,2024-03-04,2024-03-08,4,8780.3,Uninsured
+860,P1908,BARBARA THOMAS,29.0,M,Pediatrics,Chickenpox,01 Sep 2023,2023-09-04,3,7840.55,PPO
+861,P1670,jessica jones,34.0,Male,General Medicine,Diabetes,02/08/2024,2024-08-12,10,9603.36,Medicare
+862,P1515,Michael Smith,82.0,F,Neurology,Epilepsy,13/08/2023,2023-08-19,6,1991.49,PPO
+863,P1838,charles martinez,22.0,f,Emergency,Trauma,2024-10-01,2024-10-06,5,6281.14,HMO
+864,P1141,  Richard Lee  ,30.0,Male,Pediatrics,Asthma,22/10/2024,2024-10-31,9,10503.59,Medicaid
+865,P1111,LINDA MARTIN,28.0,F,Emergency,Trauma,25/06/2024,2024-06-30,5,7168.15,Uninsured
+866,P1236,BARBARA PEREZ,80.0,,Pediatrics,Chickenpox,16 Apr 2024,2024-04-26,10,946.7,Medicaid
+867,P1537,  Jennifer Thomas  ,48.0,Male,Neurology,Stroke,2023-11-14,2023-11-22,8,8608.1,HMO
+868,P1833,joseph anderson,24.0,F,General Medicine,Hypertension,11 Jan 2024,2024-01-12,1,12957.05,Uninsured
+869,P1575,Jennifer Perez,57.0,m,Pediatrics,Ear Infection,07-24-2023,2023-07-26,2,738.33,PPO
+870,P1855,linda white,84.0,Female,Pediatrics,Flu,09 Jan 2023,2023-01-19,10,10100.42,PPO
+871,P1308,DAVID RODRIGUEZ,26.0,Female,Emergency,Appendicitis,31/10/2023,2023-11-08,8,7167.67,PPO
+872,P1800,  Susan Anderson  ,,m,Cardiology,Heart Failure,2024-02-03,2024-02-04,1,633.99,Medicare
+873,P1379,michael moore,17.0,f,Emergency,Burns,2024-08-23,2024-08-28,5,13373.45,Medicare
+874,P1870,  Linda Anderson  ,41.0,Female,Pediatrics,Flu,2023-06-21,2023-06-26,5,1797.94,HMO
+875,P1596,William Perez,41.0,M,Oncology,Lung Cancer,09-09-2024,2024-09-16,7,10873.87,Medicaid
+876,P1010,JAMES THOMAS,30.0,Male,Neurology,Parkinson's Disease,2024-04-18,2024-04-25,7,951.83,Medicaid
+877,P1664,joseph moore,12.0,f,Neurology,Epilepsy,05-31-2023,2023-06-09,9,6977.44,Uninsured
+878,P2103,  Thomas Wilson  ,70.0,m,Pediatrics,Flu,25 Oct 2023,2023-11-02,8,2515.4,PPO
+879,P1718,JENNIFER RODRIGUEZ,68.0,F,General Medicine,Hypertension,04 May 2024,2024-05-09,5,14018.17,Uninsured
+880,P2108,john johnson,5.0,F,General Medicine,Hypertension,10 Jan 2024,2024-01-18,8,8478.69,Uninsured
+881,P1548,WILLIAM JOHNSON,19.0,Male,Emergency,Trauma,2024-05-14,2024-05-24,10,13923.45,Medicare
+882,P2182,Robert Martinez,46.0,Male,Pediatrics,Flu,2024-04-13,2024-04-23,10,7741.66,Medicaid
+883,P1032,MICHAEL WHITE,32.0,Female,Pediatrics,Asthma,20 Apr 2023,2023-04-24,4,4383.32,Medicaid
+884,P1884,  Joseph Williams  ,26.0,Male,Orthopedics,Fracture,01-20-2023,2023-01-22,2,9094.28,
+885,P1357,James Johnson,82.0,F,Pediatrics,Flu,15 Apr 2023,2023-04-18,3,7322.53,HMO
+886,P1424,Michael Jackson,-1.0,Female,General Medicine,Anemia,11-18-2024,2024-11-24,6,2189.51,Medicaid
+887,P1457,michael smith,8.0,Male,Pediatrics,Chickenpox,2023-11-06,2023-11-15,9,9184.95,Uninsured
+888,P1365,Linda Martinez,46.0,,Orthopedics,Joint Replacement,25/09/2024,2024-10-03,8,629.49,Uninsured
+889,P1378,KAREN TAYLOR,61.0,m,Orthopedics,Fracture,21 Jul 2024,2024-07-23,2,6448.63,PPO
+890,P1218,  Patricia Taylor  ,17.0,f,General Medicine,Hypertension,09-02-2023,2023-09-06,4,11604.05,Medicaid
+891,P2192,ELIZABETH THOMAS,38.0,M,Emergency,Poisoning,15/03/2024,2024-03-18,3,9160.99,Uninsured
+892,P1852,susan johnson,37.0,F,Emergency,Burns,05-09-2024,2024-05-19,10,521.84,PPO
+893,P1093,  William Martin  ,40.0,Male,Oncology,Lymphoma,02 Jul 2024,2024-07-10,8,9464.07,Medicare
+894,P1895,ROBERT RODRIGUEZ,59.0,m,General Medicine,Pneumonia,2023-02-02,2023-02-10,8,1572.98,PPO
+895,P1868,  Elizabeth Jones  ,23.0,M,General Medicine,Anemia,23 Aug 2023,2023-08-27,4,5994.42,
+896,P1912,RICHARD RODRIGUEZ,32.0,Male,Pediatrics,Flu,15 Jan 2023,2023-01-25,10,8033.73,Medicaid
+897,P1704,Richard Martinez,60.0,M,Neurology,Parkinson's Disease,2023-09-02,2023-09-06,4,5495.46,Medicare
+898,P1102,  William White  ,34.0,Male,Neurology,Stroke,10/12/2023,2023-12-20,10,8621.64,Medicare
+899,P1555,THOMAS WHITE,59.0,Female,Emergency,Trauma,31/01/2023,2023-02-03,3,8837.98,Medicare
+900,P2123,thomas lee,63.0,M,General Medicine,Pneumonia,11-11-2024,2024-11-21,10,8296.75,Medicare
+901,P1709,  Robert Martinez  ,75.0,Female,Oncology,Breast Cancer,06-11-2024,2024-06-12,1,8501.33,HMO
+902,P1935,Patricia Taylor,28.0,Female,Neurology,Epilepsy,07 Feb 2023,2023-02-11,4,7052.86,Medicaid
+903,P1782,  Susan Johnson  ,16.0,Male,Emergency,Burns,04-10-2023,2023-04-20,10,10778.36,PPO
+904,P1221,PATRICIA MOORE,73.0,Female,Neurology,Migraine,08-21-2023,2023-09-01,11,,Medicare
+905,P1669,Linda Anderson,68.0,F,Neurology,Migraine,04/03/2024,2024-03-15,11,14907.67,Uninsured
+906,P1626,elizabeth taylor,5.0,M,Emergency,Burns,2024-09-10,2024-09-16,6,789.04,Medicaid
+907,P1632,  David Moore  ,15.0,F,General Medicine,Diabetes,2024-10-08,2024-10-10,2,12661.85,Medicaid
+908,P2045,BARBARA PEREZ,19.0,M,Oncology,Lung Cancer,28/07/2023,2023-07-30,2,13835.85,HMO
+909,P2060,Linda Anderson,67.0,f,Orthopedics,Joint Replacement,20 Mar 2024,2024-03-28,8,3110.24,PPO
+910,P1070,john jones,33.0,f,Orthopedics,Fracture,01-15-2024,2024-01-25,10,3004.79,Medicaid
+911,P1936,John Williams,7.0,f,Orthopedics,Joint Replacement,05 Jul 2023,2023-07-15,10,8543.52,PPO
+912,P1970,  Karen Martin  ,34.0,Male,Oncology,Leukemia,04-15-2023,2023-04-23,8,2107.29,Uninsured
+913,P1173,  Jennifer Brown  ,18.0,Male,Cardiology,Arrhythmia,03-07-2023,2023-03-12,5,441.15,Medicaid
+914,P1433,  David White  ,80.0,M,Cardiology,Hypertension,10-29-2024,2024-10-31,2,10324.64,Uninsured
+915,P1150,  Richard Jackson  ,2.0,m,Neurology,Epilepsy,22 Jun 2023,2023-06-29,7,9511.67,PPO
+916,P1237,william jackson,27.0,f,Neurology,Parkinson's Disease,30/01/2023,2023-01-31,1,7587.19,Medicare
+917,P1482,JESSICA WILLIAMS,25.0,Male,Cardiology,Coronary Artery Disease,2024-05-27,2024-05-30,3,,PPO
+918,P2012,james martinez,50.0,Male,Pediatrics,Ear Infection,29 Oct 2024,2024-11-06,8,2902.13,Medicare
+919,P2199,elizabeth rodriguez,92.0,f,General Medicine,Anemia,28 Feb 2023,2023-03-08,8,4391.66,Uninsured
+920,P1386,david jones,3.0,Male,Cardiology,Heart Failure,22 Jul 2024,2024-07-29,7,4875.46,PPO
+921,P1701,robert miller,1.0,Male,Cardiology,Coronary Artery Disease,03-01-2024,2024-03-10,9,10884.17,Medicaid
+922,P1210,John Brown,92.0,Male,General Medicine,Diabetes,04-29-2024,2024-05-05,6,2478.21,PPO
+923,P1341,  Charles Martinez  ,70.0,F,Cardiology,Arrhythmia,08-03-2024,2024-08-09,6,6037.33,
+924,P1693,elizabeth martinez,61.0,F,Cardiology,Hypertension,08-15-2024,2024-08-19,4,1176.53,Medicaid
+925,P1613,  Sarah Thomas  ,42.0,Female,Orthopedics,Fracture,08 Jan 2024,2024-01-09,1,12360.04,Medicaid
+926,P1599,KAREN WHITE,71.0,Male,Orthopedics,Fracture,02-15-2023,2023-02-18,3,5542.12,PPO
+927,P1128,David Taylor,17.0,Male,Emergency,Appendicitis,01-28-2024,2024-01-29,1,6692.11,Medicaid
+928,P2110,  Michael Martinez  ,22.0,Male,Neurology,Epilepsy,2024-07-04,2024-07-09,5,5359.95,Uninsured
+929,P2178,linda rodriguez,35.0,f,Neurology,Stroke,21/08/2024,2024-08-25,4,5143.0,Uninsured
+930,P1339,john wilson,16.0,F,Orthopedics,Sprain,02 Apr 2023,2023-04-07,5,7685.42,Medicaid
+931,P1067,  Charles Rodriguez  ,44.0,m,Oncology,Leukemia,27/05/2024,2024-05-28,1,9213.07,HMO
+932,P1616,  Mary Johnson  ,81.0,M,Neurology,,10-27-2024,2024-11-03,7,13006.87,HMO
+933,P1909,Barbara Lee,53.0,m,General Medicine,Diabetes,2023-12-28,2024-01-05,8,8198.41,Medicaid
+934,P1813,Thomas Perez,13.0,m,Emergency,Poisoning,07/04/2024,2024-04-14,7,1244.23,HMO
+935,P2114,richard jones,77.0,Male,Oncology,Breast Cancer,19 Aug 2024,2024-08-25,6,552.58,PPO
+936,P2113,david jackson,42.0,f,Orthopedics,Joint Replacement,20 Sep 2023,2023-09-26,6,8141.63,Uninsured
+937,P1759,CHARLES WILSON,84.0,F,Orthopedics,Joint Replacement,2023-06-25,2023-06-30,5,3267.22,HMO
+938,P2100,RICHARD MARTINEZ,83.0,Male,General Medicine,Diabetes,03-16-2024,2024-03-22,6,2844.89,Uninsured
+939,P1158,thomas white,1.0,F,General Medicine,Anemia,27/09/2024,2024-10-01,4,12196.41,PPO
+940,P1589,Jessica Moore,48.0,Female,Oncology,Leukemia,12/07/2024,2024-07-14,2,13925.95,Medicare
+941,P1390,  David Smith  ,4.0,f,Neurology,Epilepsy,21/09/2024,2024-10-01,10,1666.14,Medicare
+942,P1054,John Anderson,79.0,,Emergency,Poisoning,10-20-2024,2024-10-28,8,6637.8,PPO
+943,P1230,Michael Jones,66.0,f,Pediatrics,Ear Infection,2023-02-07,2023-02-14,7,8398.53,PPO
+944,P1036,Robert Taylor,40.0,m,Oncology,Breast Cancer,01-04-2023,2023-01-08,4,11281.75,HMO
+945,P2097,Susan Jones,,Male,Neurology,Parkinson's Disease,06-09-2023,2023-06-20,11,14394.73,PPO
+946,P1623,THOMAS ANDERSON,48.0,F,Orthopedics,Fracture,01 Oct 2024,2024-10-07,6,8548.68,PPO
+947,P1315,James Taylor,70.0,f,Neurology,Stroke,2023-11-02,2023-11-05,3,8671.41,Medicare
+948,P1008,David Williams,84.0,F,General Medicine,Pneumonia,2023-04-01,2023-04-02,1,14596.62,Medicaid
+949,P1538,robert white,3.0,Female,Neurology,Epilepsy,01 Apr 2023,2023-04-04,3,14789.11,Uninsured
+950,P1962,SARAH GARCIA,80.0,Male,Orthopedics,Joint Replacement,2023-09-02,2023-09-08,6,3692.94,PPO
+951,P1655,  Barbara Taylor  ,93.0,m,Neurology,Stroke,23/03/2023,2023-03-29,6,14408.31,Medicare
+952,P1319,William Martinez,61.0,Male,General Medicine,Hypertension,11-28-2023,2023-12-05,7,10722.84,HMO
+953,P1775,Mary Miller,13.0,F,Oncology,Lung Cancer,05-23-2024,2024-06-02,10,1808.39,HMO
+954,P1311,william wilson,73.0,F,Oncology,Leukemia,13/03/2024,2024-03-23,10,10437.61,Uninsured
+955,P2056,  Linda Davis  ,61.0,Female,Orthopedics,Sprain,2024-08-23,2024-08-28,5,9350.61,Medicare
+956,P1302,charles jones,50.0,M,Pediatrics,Ear Infection,01-03-2024,2024-01-08,5,7313.21,Uninsured
+957,P1405,Karen Martin,,Female,Orthopedics,Sprain,19 Mar 2023,2023-03-24,5,12289.99,PPO
+958,P2034,susan white,58.0,F,General Medicine,Pneumonia,01-27-2023,2023-02-01,5,1074.94,HMO
+959,P1720,Elizabeth Williams,17.0,f,Pediatrics,Chickenpox,18 Dec 2023,2023-12-29,11,2104.48,Medicaid
+960,P2143,  Elizabeth Jones  ,36.0,m,Emergency,Appendicitis,2023-11-28,2023-12-03,5,5356.06,Uninsured
+961,P1533,Karen Wilson,93.0,M,Emergency,Appendicitis,14 Jul 2023,2023-07-23,9,4525.99,Medicaid
+962,P1716,WILLIAM TAYLOR,80.0,Female,Pediatrics,Ear Infection,07-05-2023,2023-07-16,11,10103.3,PPO
+963,P1108,Robert Anderson,18.0,f,Neurology,,2023-05-15,2023-05-16,1,6761.7,Medicare
+964,P1522,thomas wilson,88.0,Female,Emergency,Poisoning,01/07/2024,2024-07-07,6,14161.92,Medicaid
+965,P1087,ROBERT ANDERSON,81.0,M,Cardiology,Heart Failure,05-13-2024,2024-05-18,5,5152.98,Uninsured
+966,P1344,JESSICA MILLER,86.0,Male,Pediatrics,Asthma,08/09/2023,2023-09-13,5,14494.27,Uninsured
+967,P2052,Jessica Wilson,48.0,m,Pediatrics,Asthma,05/03/2023,2023-03-14,9,11519.37,PPO
+968,P1062,  John Davis  ,46.0,M,Orthopedics,Fracture,2023-01-06,2023-01-13,7,14499.04,Medicaid
+969,P1453,sarah johnson,34.0,,Cardiology,Coronary Artery Disease,11-15-2023,2023-11-18,3,9870.28,Medicare
+970,P1653,SUSAN JACKSON,33.0,f,Oncology,Lymphoma,2024-08-06,2024-08-12,6,13352.09,Medicare
+971,P1512,patricia davis,66.0,f,Orthopedics,Joint Replacement,25/09/2023,2023-10-06,11,8031.13,Uninsured
+972,P1631,karen jones,23.0,Female,Neurology,Migraine,10/03/2024,2024-03-13,3,3885.85,Medicaid
+973,P1189,  Barbara Williams  ,32.0,m,Pediatrics,Asthma,09-07-2024,2024-09-08,1,6935.69,Medicare
+974,P1163,Barbara Perez,83.0,M,Emergency,Trauma,20 Jun 2024,2024-06-28,8,1282.13,HMO
+975,P1243,patricia moore,91.0,M,General Medicine,Hypertension,10-08-2024,2024-10-10,2,2608.69,PPO
+976,P2038,barbara miller,57.0,m,Pediatrics,Chickenpox,06 Nov 2024,2024-11-09,3,10497.88,Uninsured
+977,P1729,MICHAEL MARTINEZ,7.0,F,Cardiology,Hypertension,03 Jul 2024,2024-07-05,2,6144.0,HMO
+978,P1532,barbara johnson,66.0,Female,Orthopedics,Fracture,03-16-2023,2023-03-21,5,10967.24,PPO
+979,P1372,William Perez,35.0,Female,General Medicine,Diabetes,19/01/2024,2024-01-23,4,8465.6,PPO
+980,P1876,JAMES MARTINEZ,56.0,Male,Oncology,Lung Cancer,2023-10-23,2023-10-31,8,1300.1,Uninsured
+981,P2186,James Jones,49.0,Female,Emergency,Poisoning,01-16-2023,2023-01-20,4,14966.28,HMO
+982,P1358,KAREN SMITH,2.0,m,Orthopedics,Sprain,09 Aug 2023,2023-08-17,8,13741.13,PPO
+983,P1254,Barbara Thomas,86.0,F,Orthopedics,Joint Replacement,02/07/2024,2024-07-06,4,7639.41,PPO
+984,P2115,  Jessica Perez  ,13.0,Female,Cardiology,Heart Failure,08 Mar 2024,2024-03-17,9,9101.75,Medicaid
+985,P1097,Charles Williams,19.0,m,Neurology,,27/09/2023,2023-10-06,9,11597.5,Uninsured
+986,P1245,Mary White,56.0,Female,Orthopedics,Osteoarthritis,07-05-2023,2023-07-08,3,3311.99,PPO
+987,P1114,  Elizabeth Davis  ,55.0,Male,General Medicine,Anemia,05 Mar 2023,2023-03-13,8,,Medicaid
+988,P2169,  Susan Thomas  ,66.0,Female,Oncology,Leukemia,12 Feb 2023,2023-02-15,3,1652.15,Medicaid
+989,P1755,Thomas Brown,8.0,Male,Oncology,Leukemia,08-23-2023,2023-09-02,10,6956.59,
+990,P1228,JESSICA WILLIAMS,61.0,m,Cardiology,Heart Failure,02 Nov 2024,2024-11-08,6,575.24,Medicaid
+991,P1427,David Thomas,42.0,F,Pediatrics,Flu,22/04/2024,2024-05-01,9,7879.35,Medicaid
+992,P2062,Patricia Lee,85.0,F,Pediatrics,Chickenpox,22 Sep 2023,2023-10-01,9,11369.35,Medicare
+993,P1942,  David Martinez  ,85.0,F,Emergency,Poisoning,2024-03-17,2024-03-27,10,814.14,Medicaid
+994,P1745,Barbara Davis,72.0,M,Orthopedics,Osteoarthritis,16 Apr 2024,2024-04-22,6,9071.61,Medicaid
+995,P2088,elizabeth miller,32.0,m,Pediatrics,Chickenpox,03-18-2024,2024-03-19,1,5160.49,PPO
+996,P1137,joseph martin,56.0,f,Emergency,Poisoning,04-13-2024,2024-04-14,1,3065.34,Uninsured
+997,P1417,  Linda Lee  ,52.0,m,Emergency,Trauma,12 Jul 2024,2024-07-23,11,13542.73,HMO
+998,P1013,  Thomas Jackson  ,2.0,f,Cardiology,Heart Failure,05/05/2024,2024-05-09,4,12458.47,PPO
+999,P2005,JOHN GARCIA,11.0,m,Neurology,Stroke,2023-11-07,2023-11-18,11,12912.42,Medicaid
+1000,P1940,thomas moore,31.0,f,Pediatrics,Chickenpox,04 Nov 2024,2024-11-14,10,6554.32,Medicare
+1001,P1851,JESSICA JOHNSON,6.0,m,General Medicine,Hypertension,09-14-2023,2023-09-22,8,10028.09,HMO
+1002,P1853,  David Perez  ,28.0,m,Cardiology,Coronary Artery Disease,04-27-2023,2023-04-28,1,7664.02,HMO
+1003,P2090,JOSEPH JONES,39.0,m,Pediatrics,Ear Infection,2024-06-09,2024-06-11,2,6427.58,Medicaid
+1004,P1164,Jennifer Davis,61.0,F,Neurology,Parkinson's Disease,03-07-2023,2023-03-16,9,12773.12,Medicaid
+1005,P1392,sarah martin,90.0,Female,Emergency,Appendicitis,2024-02-16,2024-02-18,2,14812.41,Medicare
+1006,P2105,john perez,19.0,M,Oncology,Lymphoma,10-23-2024,2024-11-02,10,7756.34,Uninsured
+1007,P1223,Thomas Taylor,46.0,f,Neurology,Stroke,04-24-2023,2023-05-02,8,5188.67,PPO
+1008,P1287,SARAH BROWN,56.0,f,Oncology,Leukemia,18/10/2023,2023-10-24,6,5340.74,Medicare
+1009,P1762,RICHARD BROWN,77.0,Male,Neurology,Stroke,06-15-2023,2023-06-23,8,3700.77,
+1010,P1506,Karen Jones,27.0,Female,Orthopedics,Fracture,03-12-2023,2023-03-21,9,5943.06,HMO
+1011,P1265,robert white,82.0,Male,Pediatrics,Chickenpox,02/01/2024,2024-01-10,8,433.3,Medicare
+1012,P1283,  Charles Perez  ,78.0,M,Emergency,Burns,30/12/2023,2024-01-07,8,6278.59,
+1013,P1493,Barbara Jones,57.0,m,Orthopedics,Fracture,17/09/2024,2024-09-28,11,10363.85,PPO
+1014,P1294,DAVID GARCIA,,Female,Cardiology,Coronary Artery Disease,27/02/2024,2024-03-07,9,14056.49,Medicaid
+1015,P1839,  William Davis  ,40.0,f,Orthopedics,Joint Replacement,10-25-2023,2023-11-04,10,2019.84,Medicare
+1016,P1207,linda taylor,13.0,f,Cardiology,Heart Failure,26/07/2023,2023-07-28,2,10210.25,Medicare
+1017,P1807,robert lee,87.0,F,Oncology,Lung Cancer,06 Jul 2023,2023-07-16,10,6438.96,Medicaid
+1018,P1233,SARAH MILLER,66.0,F,Emergency,Appendicitis,25/02/2024,2024-03-03,7,2173.01,Medicaid
+1019,P2183,BARBARA GARCIA,49.0,M,Pediatrics,Asthma,05-26-2024,2024-05-30,4,,HMO
+1020,P1958,  Sarah Williams  ,34.0,f,Emergency,Appendicitis,02/07/2023,2023-07-06,4,4523.29,PPO
+1021,P1714,Thomas Martin,82.0,M,Cardiology,Hypertension,01 Mar 2024,2024-03-03,2,,PPO
+1022,P1817,Michael Lee,8.0,m,Orthopedics,Osteoarthritis,2024-05-24,2024-06-03,10,6774.51,Uninsured
+1023,P1892,Linda Johnson,71.0,F,Oncology,Lung Cancer,17/07/2024,2024-07-26,9,10235.13,Medicare
+1024,P1080,linda johnson,11.0,Female,Pediatrics,Ear Infection,10-24-2023,2023-11-01,8,5512.88,Medicare
+1025,P1883,linda brown,91.0,F,Cardiology,Arrhythmia,14/09/2023,2023-09-21,7,13476.83,Medicare
+1026,P2026,charles smith,72.0,Male,Cardiology,Heart Failure,09 Jul 2023,2023-07-12,3,5046.56,Medicare
+1027,P1401,Linda Garcia,77.0,F,Neurology,Stroke,2024-01-10,2024-01-20,10,8329.06,Uninsured
+1028,P1158,thomas white,1.0,F,General Medicine,Anemia,27/09/2024,2024-10-01,4,12196.41,PPO
+1029,P1492,linda moore,,M,Orthopedics,Fracture,07/09/2023,2023-09-14,7,7801.22,Uninsured
+1030,P2132,KAREN JOHNSON,57.0,f,Pediatrics,Chickenpox,16/01/2023,2023-01-26,10,10650.41,Medicare
+1031,P1726,jessica williams,58.0,Female,Neurology,Parkinson's Disease,10-22-2024,2024-10-31,9,4741.02,Medicare
+1032,P1681,PATRICIA SMITH,1.0,Female,Pediatrics,Asthma,2024-01-10,2024-01-16,6,8887.86,PPO
+1033,P1402,  Joseph Perez  ,27.0,Female,General Medicine,Anemia,13/07/2023,2023-07-23,10,4242.03,HMO
+1034,P1180,joseph thomas,75.0,Female,General Medicine,Anemia,2023-07-28,2023-08-08,11,13336.01,Medicaid
+1035,P1922,MICHAEL WILLIAMS,20.0,Female,Oncology,Breast Cancer,17/06/2024,2024-06-28,11,14350.22,Medicare
+1036,P1079,karen davis,,f,Cardiology,Coronary Artery Disease,2024-02-05,2024-02-13,8,2731.68,PPO
+1037,P1987,Thomas Garcia,16.0,Female,General Medicine,Anemia,04-18-2023,2023-04-27,9,13133.99,Medicare
+1038,P2171,Charles Garcia,37.0,F,Oncology,Leukemia,2024-03-13,2024-03-15,2,13074.54,PPO
+1039,P1737,  James Garcia  ,17.0,Female,Emergency,Trauma,08-01-2023,2023-08-03,2,5435.39,Medicare
+1040,P1695,karen martinez,59.0,f,Pediatrics,Chickenpox,03-06-2023,2023-03-10,4,12600.02,Medicare
+1041,P1320,SARAH WILSON,42.0,f,Orthopedics,Joint Replacement,05-04-2023,2023-05-11,7,12328.93,Medicaid
+1042,P1485,RICHARD TAYLOR,14.0,Female,Cardiology,Heart Failure,15 Jul 2023,2023-07-24,9,7335.14,HMO
+1043,P1199,david smith,92.0,F,Orthopedics,Sprain,21/01/2023,2023-01-29,8,7566.57,HMO
+1044,P1818,Joseph Taylor,90.0,M,Emergency,Appendicitis,2023-05-07,2023-05-09,2,12300.54,Uninsured
+1045,P1712,Jennifer Lee,81.0,m,Orthopedics,Sprain,04-17-2024,2024-04-21,4,10156.29,HMO
+1046,P1621,Thomas Smith,33.0,Female,Emergency,Trauma,2024-09-12,2024-09-19,7,5633.92,Medicaid
+1047,P1439,ROBERT ANDERSON,29.0,Male,Cardiology,Coronary Artery Disease,2024-09-28,2024-09-29,1,3395.67,Medicare
+1048,P1416,DAVID PEREZ,94.0,Female,Orthopedics,Osteoarthritis,19 Apr 2024,2024-04-23,4,2838.89,Medicaid
+1049,P1134,RICHARD LEE,22.0,M,General Medicine,Pneumonia,01 Jun 2024,2024-06-06,5,9367.67,PPO
+1050,P1815,Linda Moore,11.0,F,Orthopedics,Sprain,01/05/2023,2023-05-03,2,4711.66,PPO
+1051,P1647,barbara smith,,Female,Emergency,Burns,24 Jun 2024,2024-07-02,8,13472.34,Medicare
+1052,P1863,Linda Thomas,48.0,f,Orthopedics,Sprain,05/05/2023,2023-05-09,4,580.15,Uninsured
+1053,P1900,  Jennifer Moore  ,7.0,f,Emergency,Poisoning,05 Feb 2024,2024-02-09,4,9809.41,Medicaid
+1054,P1408,William Martinez,63.0,M,Cardiology,Heart Failure,09-20-2023,2023-09-22,2,1566.5,
+1055,P1155,Patricia Anderson,29.0,M,General Medicine,Hypertension,04/11/2023,2023-11-07,3,10549.99,Medicare
+1056,P2030,  John Martin  ,58.0,M,Pediatrics,Ear Infection,2024-05-08,2024-05-11,3,13569.61,Medicare
+1057,P1279,DAVID WILLIAMS,34.0,Male,Orthopedics,Sprain,10-29-2023,2023-11-04,6,6867.7,PPO
+1058,P1795,  Barbara Garcia  ,84.0,F,General Medicine,Pneumonia,11/08/2024,2024-08-12,1,8474.19,PPO
+1059,P1116,  Linda Johnson  ,18.0,Male,General Medicine,Anemia,19 May 2023,2023-05-29,10,3650.1,HMO
+1060,P1597,BARBARA MARTINEZ,45.0,f,Orthopedics,Sprain,02-12-2023,2023-02-18,6,11518.63,PPO
+1061,P1209,KAREN RODRIGUEZ,36.0,F,Cardiology,Coronary Artery Disease,2024-03-12,2024-03-21,9,4281.31,PPO
+1062,P1719,Patricia Martin,88.0,f,Neurology,Parkinson's Disease,2023-06-08,2023-06-15,7,8207.05,Medicaid
+1063,P1586,  Patricia White  ,37.0,m,General Medicine,Pneumonia,2023-11-30,2023-12-08,8,10768.18,Medicaid
+1064,P2033,  Charles Rodriguez  ,84.0,m,Orthopedics,Sprain,01 Apr 2024,2024-04-07,6,7118.04,HMO
+1065,P1469,  Richard Garcia  ,6.0,m,Emergency,Poisoning,11 Apr 2023,2023-04-17,6,14570.89,HMO
+1066,P1540,JESSICA MILLER,82.0,f,General Medicine,Anemia,25 Jun 2024,2024-06-27,2,,PPO
+1067,P1836,  Patricia Thomas  ,57.0,Female,Emergency,Burns,29 Jun 2023,2023-07-04,5,9785.31,Medicaid
+1068,P1529,Patricia Miller,18.0,F,Neurology,Epilepsy,02-15-2024,2024-02-23,8,10471.6,Medicare
+1069,P1240,SUSAN THOMAS,28.0,F,Neurology,Stroke,11-20-2023,2023-11-30,10,13290.8,HMO
+1070,P2173,  Jennifer Martin  ,78.0,f,Cardiology,Heart Failure,17 Sep 2024,2024-09-27,10,9800.48,PPO
+1071,P1604,CHARLES MILLER,,f,Emergency,Appendicitis,08/02/2023,2023-02-16,8,7288.06,Uninsured
+1072,P1458,MICHAEL ANDERSON,90.0,f,Oncology,Lymphoma,2024-11-05,2024-11-16,11,3974.29,PPO
+1073,P1420,Richard Jones,-1.0,Female,Emergency,Trauma,04-06-2023,2023-04-17,11,10276.94,Medicaid
+1074,P1264,JOSEPH JOHNSON,23.0,Male,Cardiology,Arrhythmia,02 May 2024,2024-05-06,4,12210.16,Uninsured
+1075,P1920,Robert Perez,30.0,M,Neurology,Parkinson's Disease,2023-04-10,2023-04-13,3,3482.27,HMO
+1076,P1947,richard garcia,86.0,Female,Neurology,Migraine,11/04/2024,2024-04-15,4,11804.79,PPO
+1077,P1906,ELIZABETH GARCIA,57.0,m,Cardiology,Hypertension,2023-10-19,2023-10-22,3,557.2,Medicaid
+1078,P1431,thomas johnson,90.0,Male,Neurology,Migraine,19 Oct 2024,2024-10-29,10,8164.22,HMO
+1079,P1203,JAMES RODRIGUEZ,13.0,M,Oncology,Lung Cancer,15 Feb 2024,2024-02-17,2,14461.39,Medicaid
+1080,P1184,  Susan Jackson  ,15.0,Male,Orthopedics,Osteoarthritis,06/01/2024,2024-01-14,8,6720.44,Medicare
+1081,P1178,Michael White,85.0,M,General Medicine,Anemia,04-11-2024,2024-04-22,11,1983.17,Uninsured
+1082,P1937,WILLIAM SMITH,15.0,F,Neurology,Epilepsy,23/08/2024,2024-09-03,11,10415.63,Medicare
+1083,P2174,elizabeth martin,37.0,m,Cardiology,Coronary Artery Disease,2024-10-06,2024-10-09,3,8841.95,Medicaid
+1084,P2194,Mary Taylor,1.0,M,Neurology,Stroke,2023-03-29,2023-04-02,4,7122.25,PPO
+1085,P1083,ROBERT JACKSON,21.0,Female,Cardiology,Heart Failure,21 Jul 2024,2024-07-23,2,965.91,Medicaid
+1086,P1855,linda white,,Female,Pediatrics,Flu,09 Jan 2023,2023-01-19,10,10100.42,PPO
+1087,P1159,william martin,88.0,M,Orthopedics,Joint Replacement,06 Mar 2024,2024-03-16,10,779.1,PPO
+1088,P1086,mary jones,44.0,Female,Cardiology,Coronary Artery Disease,05 May 2024,2024-05-09,4,4258.63,HMO
+1089,P1154,Jennifer Miller,67.0,F,Oncology,Breast Cancer,04-03-2024,2024-04-13,10,13389.18,PPO
+1090,P1885,John Taylor,56.0,Female,Oncology,Leukemia,26 Jul 2024,2024-08-01,6,13449.5,Medicare
+1091,P1634,Jennifer Jones,90.0,Male,Cardiology,Coronary Artery Disease,04 Mar 2024,2024-03-12,8,3942.61,Uninsured
+1092,P1126,John Garcia,83.0,Female,Emergency,Poisoning,04/03/2024,2024-03-08,4,7890.04,Uninsured
+1093,P1523,michael smith,90.0,f,Oncology,Breast Cancer,30/06/2023,2023-07-11,11,8284.81,Uninsured
+1094,P1824,Charles Perez,92.0,f,Orthopedics,Sprain,04 May 2024,2024-05-13,9,6253.61,Medicare
+1095,P1620,patricia perez,92.0,Female,Pediatrics,Flu,2023-07-29,2023-08-07,9,923.77,Medicare
+1096,P1976,BARBARA MOORE,75.0,Female,Oncology,Breast Cancer,24 Jun 2023,2023-06-28,4,1423.17,PPO
+1097,P2008,JENNIFER JACKSON,76.0,Male,Orthopedics,Fracture,2023-11-12,2023-11-22,10,5079.84,Medicare
+1098,P1711,robert williams,22.0,f,Emergency,Burns,29/04/2023,2023-05-04,5,7768.67,Medicaid
+1099,P1949,Barbara Perez,61.0,Male,Pediatrics,Chickenpox,01/01/2024,2024-01-12,11,11668.67,PPO
+1100,P1739,MICHAEL ANDERSON,84.0,Female,Neurology,Migraine,03-19-2023,2023-03-24,5,2047.59,Medicare
+1101,P1354,Patricia Lee,47.0,M,Cardiology,Coronary Artery Disease,04/04/2023,2023-04-15,11,6968.45,Medicare
+1102,P2054,JOHN PEREZ,69.0,Male,Neurology,Stroke,2023-01-14,2023-01-25,11,6245.13,Uninsured
+1103,P1848,William Martinez,14.0,F,Cardiology,Coronary Artery Disease,09-19-2023,2023-09-26,7,6760.11,Medicaid
+1104,P1967,barbara anderson,25.0,Female,Orthopedics,Fracture,07-17-2024,2024-07-27,10,14617.77,HMO
+1105,P1524,  William Martin  ,46.0,F,Pediatrics,Asthma,25/06/2024,2024-06-30,5,12785.74,Uninsured
+1106,P1907,  Sarah Martinez  ,74.0,F,Emergency,Burns,25 Mar 2023,2023-03-30,5,3110.53,PPO
+1107,P2172,JAMES MARTINEZ,35.0,M,Cardiology,Arrhythmia,23 Aug 2023,2023-08-30,7,5975.43,HMO
+1108,P1286,KAREN MILLER,57.0,m,Oncology,Leukemia,10-22-2024,2024-10-24,2,12260.14,Uninsured
+1109,P1738,james martinez,29.0,Female,Neurology,Migraine,2024-05-27,2024-06-07,11,2107.7,Medicaid
+1110,P2092,  Patricia Moore  ,9.0,Male,Pediatrics,Asthma,2024-08-29,2024-09-08,10,10205.85,HMO
+1111,P1779,Sarah Martinez,94.0,Female,Neurology,Stroke,21/11/2023,2023-12-02,11,3805.81,PPO
+1112,P1484,Sarah Thomas,49.0,m,General Medicine,Anemia,04-02-2024,2024-04-04,2,13938.33,Medicare
+1113,P1837,karen perez,21.0,Female,Orthopedics,Osteoarthritis,01 Jun 2024,2024-06-04,3,7126.15,Uninsured
+1114,P1964,RICHARD WHITE,6.0,Male,Pediatrics,Flu,2024-07-12,2024-07-22,10,2829.16,Medicaid
+1115,P1376,  James Perez  ,59.0,F,Orthopedics,Sprain,23 Apr 2024,2024-04-29,6,6879.6,Medicaid
+1116,P1842,Richard Garcia,84.0,Female,Orthopedics,Joint Replacement,12-29-2023,2024-01-07,9,3087.25,HMO
+1117,P1299,elizabeth johnson,90.0,m,Orthopedics,Sprain,04 Jan 2023,2023-01-07,3,4215.44,HMO
+1118,P1827,Joseph Wilson,46.0,Female,Cardiology,Coronary Artery Disease,12 Sep 2024,2024-09-18,6,3638.49,PPO
+1119,P1946,James Davis,50.0,f,Pediatrics,Ear Infection,31/05/2024,2024-06-02,2,11883.16,Medicaid
+1120,P1899,David White,60.0,F,Oncology,Lymphoma,11-16-2023,2023-11-24,8,12195.41,HMO
+1121,P1306,Jennifer Perez,71.0,f,Oncology,Leukemia,10-27-2024,2024-10-30,3,11152.69,Medicare
+1122,P2156,thomas white,75.0,M,Emergency,Poisoning,07-16-2024,2024-07-21,5,3834.88,Medicare
+1123,P2044,thomas williams,62.0,Male,Pediatrics,Ear Infection,04-30-2023,2023-05-02,2,8350.44,Medicare
+1124,P1044,william rodriguez,15.0,F,Emergency,Trauma,04 Jun 2024,2024-06-10,6,13007.01,PPO
+1125,P1122,Michael Lee,56.0,m,General Medicine,Hypertension,2023-09-01,2023-09-03,2,7153.05,Medicaid
+1126,P2068,Thomas Wilson,,m,Oncology,Leukemia,12/02/2023,2023-02-14,2,14220.93,PPO
+1127,P1715,  Karen Martin  ,85.0,M,Neurology,Epilepsy,2024-11-10,2024-11-18,8,1471.96,Medicare
+1128,P1697,James Smith,86.0,Male,Emergency,Burns,08/01/2024,2024-01-18,10,,Medicaid
+1129,P1574,Thomas Moore,10.0,Female,Oncology,Breast Cancer,06-17-2024,2024-06-18,1,9486.61,Medicaid
+1130,P2157,MARY DAVIS,86.0,Female,Cardiology,Heart Failure,05-11-2023,2023-05-15,4,3334.68,Medicare
+1131,P1471,John Smith,66.0,M,Cardiology,Heart Failure,2023-07-20,2023-07-28,8,4121.6,Medicare
+1132,P1292,Jennifer Taylor,5.0,m,General Medicine,Diabetes,20 Aug 2023,2023-08-28,8,1872.67,HMO
+1133,P1699,JAMES RODRIGUEZ,9.0,Female,Emergency,Appendicitis,02-03-2024,2024-02-09,6,9480.66,Medicare
+1134,P1624,  Charles Jackson  ,12.0,m,Emergency,Poisoning,09-23-2024,2024-10-03,10,1743.22,Uninsured
+1135,P1034,  Karen Perez  ,59.0,F,General Medicine,Anemia,2023-04-18,2023-04-28,10,5083.87,Medicaid
+1136,P1686,KAREN WILLIAMS,44.0,F,Neurology,Stroke,15/10/2024,2024-10-25,10,10524.41,HMO
+1137,P1001,john jackson,57.0,Male,General Medicine,Hypertension,03-04-2023,2023-03-08,4,14717.92,PPO
+1138,P1939,WILLIAM DAVIS,79.0,M,Emergency,Burns,30 Jul 2024,2024-08-06,7,2525.37,PPO
+1139,P1812,Jessica Thomas,77.0,m,Oncology,Lung Cancer,04-07-2024,2024-04-12,5,12699.71,Uninsured
+1140,P1226,  Susan Miller  ,8.0,m,Orthopedics,Joint Replacement,2024-07-02,2024-07-13,11,8858.49,Medicaid
+1141,P2152,  Robert Davis  ,82.0,M,Pediatrics,Asthma,06-26-2023,2023-06-29,3,3849.35,Medicaid
+1142,P1244,KAREN TAYLOR,71.0,Female,Pediatrics,Asthma,11-16-2024,2024-11-20,4,810.54,HMO
+1143,P1267,  Thomas Lee  ,59.0,Female,Cardiology,Heart Failure,09 Aug 2023,2023-08-10,1,4382.64,
+1144,P1886,charles brown,91.0,F,Oncology,Lymphoma,2023-01-01,2023-01-02,1,7356.76,HMO
+1145,P1787,richard martin,86.0,m,Emergency,Poisoning,18 Oct 2023,2023-10-27,9,2521.03,PPO
+1146,P2159,Richard Thomas,49.0,m,Emergency,Burns,25/09/2024,2024-10-03,8,7157.43,PPO
+1147,P1945,  Thomas Williams  ,27.0,M,Cardiology,Hypertension,2023-11-28,2023-12-03,5,10954.89,Uninsured
+1148,P2073,JOHN JACKSON,6.0,m,Oncology,Lung Cancer,09-29-2024,2024-10-02,3,10508.99,Medicaid
+1149,P2127,  Sarah Martinez  ,42.0,Male,Emergency,Burns,06-30-2023,2023-07-02,2,12815.41,PPO
+1150,P2091,  Jessica Brown  ,28.0,Male,Pediatrics,Flu,16 Sep 2024,2024-09-20,4,9942.03,Medicare
+1151,P1810,  Sarah Smith  ,20.0,M,Oncology,Leukemia,21/03/2023,2023-03-26,5,4293.86,Medicaid
+1152,P1023,  Jennifer Jackson  ,2.0,m,Orthopedics,Sprain,10-20-2023,2023-10-22,2,5688.47,Medicare
+1153,P1464,  Richard Rodriguez  ,73.0,f,Oncology,Leukemia,2023-08-22,2023-08-23,1,12359.08,Uninsured
+1154,P1753,SARAH GARCIA,70.0,m,General Medicine,Hypertension,2024-01-30,2024-02-04,5,9931.15,Uninsured
+1155,P1728,  William White  ,84.0,m,Oncology,Lung Cancer,31/08/2024,2024-09-02,2,6101.12,PPO
+1156,P1854,  Susan Davis  ,64.0,m,Oncology,Breast Cancer,2024-05-26,2024-05-27,1,8281.93,Uninsured
+1157,P1657,SARAH BROWN,39.0,m,General Medicine,Hypertension,03-10-2024,2024-03-21,11,13262.61,Medicaid
+1158,P1865,KAREN MARTIN,8.0,M,Emergency,Burns,13 Oct 2024,2024-10-23,10,2278.61,Medicare
+1159,P1470,  Robert Jackson  ,76.0,M,General Medicine,Hypertension,28 Jan 2023,2023-02-01,4,10755.75,Uninsured
+1160,P1983,  Michael Johnson  ,33.0,M,Pediatrics,Chickenpox,30 Jan 2024,2024-01-31,1,12484.77,Medicaid
+1161,P1162,  Charles Wilson  ,12.0,M,Pediatrics,Asthma,2024-08-28,2024-08-30,2,8045.76,PPO
+1162,P1877,  Richard Williams  ,35.0,f,General Medicine,Pneumonia,03-08-2024,2024-03-15,7,4662.68,Uninsured
+1163,P1898,Jennifer Johnson,3.0,F,Pediatrics,Ear Infection,2024-04-14,2024-04-16,2,10413.02,Medicaid
+1164,P2089,DAVID JONES,,M,General Medicine,Hypertension,08-28-2024,2024-09-03,6,11198.25,PPO
+1165,P1988,mary brown,4.0,Male,Cardiology,Arrhythmia,25 Jan 2024,2024-02-04,10,11429.38,Uninsured
+1166,P1929,Elizabeth Johnson,76.0,Male,Emergency,Appendicitis,20 Oct 2023,2023-10-29,9,9155.32,Medicaid
+1167,P1860,  John Rodriguez  ,68.0,F,Cardiology,Heart Failure,03-01-2024,2024-03-06,5,11739.04,Medicaid
+1168,P1968,William Rodriguez,53.0,Male,Neurology,Epilepsy,14 Oct 2023,2023-10-25,11,9458.88,Medicare
+1169,P1527,  Linda Davis  ,1.0,f,General Medicine,,08 Nov 2023,2023-11-12,4,10027.22,PPO
+1170,P1997,Sarah Williams,36.0,m,General Medicine,Diabetes,2023-07-13,2023-07-16,3,14286.64,Medicaid
+1171,P2197,sarah wilson,62.0,m,General Medicine,Anemia,11-23-2024,2024-11-29,6,12597.85,PPO
+1172,P2188,Barbara Thomas,54.0,Female,Cardiology,Coronary Artery Disease,08 Mar 2023,2023-03-16,8,3078.82,PPO
+1173,P1689,Thomas Wilson,55.0,m,Pediatrics,Ear Infection,01-07-2024,2024-01-16,9,8799.15,HMO
+1174,P1307,Susan Smith,74.0,F,General Medicine,Hypertension,03 Mar 2024,2024-03-13,10,9141.92,Medicaid
+1175,P1683,William Garcia,88.0,F,Neurology,Epilepsy,19 Mar 2024,2024-03-21,2,3805.94,Uninsured
+1176,P1170,william martinez,55.0,,Pediatrics,Asthma,21/01/2024,2024-01-26,5,14141.21,Medicare
+1177,P1355,Patricia Jones,80.0,F,Orthopedics,Osteoarthritis,11-13-2024,2024-11-17,4,4792.74,HMO
+1178,P1620,patricia perez,92.0,Female,Pediatrics,Flu,2023-07-29,2023-08-07,9,923.77,Medicare
+1179,P1414,  David Williams  ,45.0,m,Pediatrics,Flu,14/06/2024,2024-06-15,1,7849.86,Medicaid
+1180,P1963,  David Martin  ,-1.0,m,Pediatrics,Chickenpox,06-10-2024,2024-06-15,5,13798.24,HMO
+1181,P1231,John Martin,17.0,f,Oncology,Lymphoma,2023-03-05,2023-03-11,6,4159.08,Uninsured
+1182,P2071,  Barbara Martin  ,19.0,M,Oncology,Breast Cancer,03-13-2024,2024-03-17,4,446.51,Medicare
+1183,P1241,william lee,73.0,M,Neurology,Stroke,08-01-2023,2023-08-07,6,4317.56,HMO
+1184,P1400,  Michael Brown  ,47.0,m,Oncology,Leukemia,08-07-2023,2023-08-16,9,8783.24,Medicare
+1185,P1206,  Jennifer Moore  ,86.0,Male,Emergency,Appendicitis,03-04-2024,2024-03-09,5,7232.49,Medicaid
+1186,P2133,charles martin,31.0,M,Neurology,Epilepsy,2024-05-02,2024-05-05,3,14115.12,PPO
+1187,P2006,  Karen Miller  ,7.0,Female,Pediatrics,Ear Infection,31/03/2023,2023-04-10,10,10329.78,HMO
+1188,P1291,William Johnson,52.0,m,Neurology,Stroke,20 Aug 2023,2023-08-23,3,1410.45,Medicare
+1189,P1002,DAVID PEREZ,66.0,f,Emergency,Burns,16 Sep 2024,2024-09-19,3,14893.3,Medicaid
+1190,P1329,  John Moore  ,47.0,Male,Orthopedics,Sprain,2023-07-29,2023-07-31,2,12021.78,Uninsured
+1191,P2196,susan anderson,2.0,Female,Cardiology,Hypertension,2024-06-14,2024-06-21,7,2911.61,Uninsured
+1192,P1927,david smith,82.0,M,General Medicine,Anemia,2024-01-14,2024-01-16,2,3705.15,Medicare
+1193,P1404,JOSEPH WHITE,66.0,M,Orthopedics,Joint Replacement,23/09/2024,2024-09-24,1,9225.39,Medicaid
+1194,P2013,James Anderson,17.0,Male,Orthopedics,Fracture,2023-03-15,2023-03-26,11,1291.82,PPO
+1195,P1262,SUSAN THOMAS,92.0,F,Cardiology,Arrhythmia,09-30-2023,2023-10-02,2,616.5,HMO
+1196,P1389,  David Johnson  ,17.0,,Neurology,Parkinson's Disease,02/09/2023,2023-09-03,1,14577.68,PPO
+1197,P1145,SARAH DAVIS,8.0,F,Orthopedics,Osteoarthritis,2024-05-30,2024-06-05,6,11416.72,PPO
+1198,P1441,MICHAEL THOMAS,3.0,Female,Pediatrics,Asthma,14 Mar 2024,2024-03-24,10,11677.07,PPO
+1199,P1843,linda jackson,19.0,F,Oncology,Lung Cancer,15 Jan 2023,2023-01-22,7,14368.71,PPO
+1200,P1641,LINDA WILLIAMS,50.0,Male,Orthopedics,Sprain,07-02-2024,2024-07-10,8,8511.75,PPO
+1201,P1187,  Sarah Anderson  ,36.0,M,Cardiology,Hypertension,09 Sep 2023,2023-09-19,10,4788.06,
+1202,P2077,Michael Rodriguez,91.0,Male,Orthopedics,Sprain,11-16-2024,2024-11-26,10,12752.09,Medicaid
+1203,P1356,  William Martin  ,93.0,F,Neurology,Stroke,09 Sep 2023,2023-09-12,3,7425.34,Medicare
+1204,P1246,James Martinez,52.0,Female,Oncology,Lung Cancer,2024-03-25,2024-04-03,9,10411.02,HMO
+1205,P1773,robert brown,77.0,F,Pediatrics,Ear Infection,19/07/2023,2023-07-30,11,2297.38,PPO
+1206,P1435,susan thomas,23.0,Female,General Medicine,Anemia,2024-05-21,2024-05-24,3,,HMO
+1207,P1791,Linda Brown,,f,Cardiology,Arrhythmia,2024-07-09,2024-07-20,11,667.62,Uninsured
+1208,P1183,DAVID JACKSON,48.0,Male,Pediatrics,Ear Infection,09/05/2023,2023-05-17,8,2356.89,PPO
+1209,P1381,JAMES THOMAS,38.0,Male,Oncology,Lymphoma,12/10/2023,2023-10-18,6,9086.91,Medicaid
+1210,P1059,linda perez,67.0,M,Emergency,Appendicitis,01-23-2024,2024-01-30,7,1247.69,PPO
+1211,P1444,  Robert Jackson  ,33.0,m,Orthopedics,Osteoarthritis,05-10-2024,2024-05-13,3,2884.43,Medicaid
+1212,P1361,  Jennifer Martinez  ,64.0,F,Orthopedics,Fracture,2023-12-02,2023-12-13,11,9932.22,HMO
+1213,P1960,john johnson,33.0,Female,Oncology,Breast Cancer,2024-02-18,2024-02-23,5,812.08,Medicare
+1214,P1050,SUSAN MILLER,46.0,Male,Cardiology,Arrhythmia,2023-05-08,2023-05-12,4,10694.56,Uninsured
+1215,P2162,SUSAN PEREZ,,F,Emergency,Burns,21 Mar 2024,2024-03-31,10,12346.0,PPO
+1216,P1934,James Lee,71.0,F,Emergency,Trauma,05-16-2024,2024-05-18,2,8451.42,
+1217,P1396,jennifer johnson,19.0,Female,General Medicine,Hypertension,16/04/2023,2023-04-25,9,9465.02,Uninsured
+1218,P1740,MICHAEL MOORE,62.0,F,General Medicine,Anemia,01 Jun 2024,2024-06-08,7,11676.36,Medicare
+1219,P1130,Joseph Thomas,17.0,M,Neurology,Stroke,21/04/2023,2023-04-25,4,3374.03,Medicaid
+1220,P1215,SUSAN ANDERSON,61.0,m,Oncology,Lymphoma,09 Nov 2024,2024-11-17,8,5329.77,Medicaid
+1221,P1275,susan garcia,26.0,M,Cardiology,Arrhythmia,2024-08-13,2024-08-15,2,7007.6,Medicaid
+1222,P2037,RICHARD ANDERSON,42.0,M,Emergency,Poisoning,29 Sep 2024,2024-09-30,1,771.14,Medicare
+1223,P1633,  Michael Miller  ,58.0,m,Pediatrics,Ear Infection,17/09/2023,2023-09-20,3,13800.81,Medicaid
+1224,P1893,linda williams,23.0,F,Oncology,Lung Cancer,12 May 2023,2023-05-13,1,9215.13,Uninsured
+1225,P1235,sarah miller,58.0,F,Emergency,Trauma,2023-10-10,2023-10-15,5,13868.84,PPO
+1226,P1831,Linda Thomas,91.0,F,Neurology,Epilepsy,06-12-2023,2023-06-23,11,2915.95,Uninsured
+1227,P1953,Patricia Jackson,78.0,Female,Neurology,Migraine,20/08/2023,2023-08-26,6,7805.16,Uninsured
+1228,P1473,Jessica Taylor,20.0,m,Orthopedics,Sprain,28/12/2023,2024-01-03,6,9712.56,Medicaid
+1229,P1270,  Jennifer Thomas  ,89.0,m,Orthopedics,Joint Replacement,2024-10-30,2024-11-04,5,4951.88,HMO
+1230,P1239,Michael Martinez,42.0,Female,Orthopedics,Osteoarthritis,2023-10-16,2023-10-21,5,8013.6,Medicaid
+1231,P1957,  Karen Anderson  ,12.0,Male,General Medicine,Diabetes,2023-05-24,2023-05-30,6,6972.41,HMO
+1232,P1989,  David Martin  ,34.0,m,Neurology,Migraine,21 Nov 2024,2024-12-01,10,1693.56,PPO
+1233,P1734,linda johnson,44.0,Female,Orthopedics,Osteoarthritis,11-17-2023,2023-11-22,5,12405.89,Uninsured
+1234,P1348,elizabeth anderson,53.0,F,Emergency,Trauma,24 Sep 2024,2024-09-30,6,2057.56,Medicaid
+1235,P1242,James White,18.0,Male,General Medicine,Anemia,05/06/2023,2023-06-10,5,12093.82,HMO
+1236,P1572,ROBERT SMITH,61.0,Female,Emergency,Poisoning,14 Feb 2024,2024-02-24,10,12655.03,HMO
+1237,P1437,  James Williams  ,,f,Orthopedics,Joint Replacement,09-08-2024,2024-09-16,8,9161.59,Medicare
+1238,P1578,david smith,26.0,M,Emergency,Burns,07/12/2023,2023-12-16,9,11292.73,Medicaid
+1239,P2150,Patricia Anderson,19.0,m,Cardiology,Coronary Artery Disease,11-22-2023,2023-11-23,1,6800.51,HMO
+1240,P1919,KAREN WILSON,19.0,F,Pediatrics,Ear Infection,04 Jun 2024,2024-06-08,4,14425.09,PPO
+1241,P1057,Jessica Perez,12.0,Female,Neurology,Migraine,02 Jun 2023,2023-06-13,11,5199.32,HMO
+1242,P1502,william garcia,9.0,M,Emergency,Poisoning,2023-12-29,2023-12-31,2,2637.54,Medicare
+1243,P1639,  Karen White  ,49.0,Male,Orthopedics,Fracture,02-05-2024,2024-02-09,4,9567.3,Uninsured
+1244,P1349,elizabeth williams,6.0,m,Cardiology,Heart Failure,10-08-2024,2024-10-19,11,8223.96,Uninsured
+1245,P1383,  Charles Jones  ,27.0,M,Neurology,Migraine,24 Apr 2023,2023-04-28,4,8901.84,Medicaid
